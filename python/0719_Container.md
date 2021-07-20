@@ -279,13 +279,13 @@ print(tuple(s))
 # (1, 2, 3, 4)
 
 # dictionary를 형변환 해봅시다.
-d = {'name': 'ssafy', 'year': 2020}
+d = {'name': 'sw', 'year': 2020}
 print(str(d))
 print(list(d))
 print(tuple(d))
 print(set(d))
 # range(d)		# 오류 발생
-# {'name': 'ssafy', 'year': 2020}
+# {'name': 'sw', 'year': 2020}
 # ['name', 'year']
 # ('name', 'year')
 # {'year', 'name'}
