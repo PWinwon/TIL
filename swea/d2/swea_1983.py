@@ -10,13 +10,15 @@ for i in range(T):
         score_list.append(a*0.35 + b*0.45 + c*0.2)
     
     for score in score_list:
-        rank_score = 1
+        rank_score = 0
         for sc in score_list:
             if score < sc:
                 rank_score += 1
         result.append(rank_score)
     
-    idx = int((result[K] / N) * 10)
+    rank = result[K-1]
+    idx = int(N // 10)
+    rank = rank // idx
     
-    print(soc[idx])
+    print(f'#{i+1} {soc[rank]}')
 
