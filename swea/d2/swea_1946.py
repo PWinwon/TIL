@@ -4,6 +4,8 @@ for i in range(T):
     print(f'#{i+1}')
     N = int(input())
     idx = 0
+    # 입력받은 문자와 그 개수에 대해 반복문을 통해 출력
+    # 조건물을 통해 10의 배수를 출력한 뒤 줄바꿈
     for n in range(N):
         char, nums = input().split()
         nums = int(nums)
