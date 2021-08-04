@@ -1,6 +1,16 @@
 prime_num = []
 num_list = [1] * 1000000
 
+# prime_num = []
+# num_list = []
+# for i in range(1, 1000001):
+#     num_list.append(i)
+# for idx in range(1, 1000000):
+#     num = idx + 1
+#     if num == num_list[idx]:
+#         prime_num.append(num)
+#         for x in range(num, 1000001, num):
+#             num_list[x-1] = 0
 # 미리 소인수를 100만까지 모조리 구해버림
 # 반복을 거치며 수가 1로 남아있을경우 == 소수
 # 소수가 생길때마다 그 배수를 다시 0으로 채움
