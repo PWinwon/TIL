@@ -70,7 +70,7 @@ TypeError: 'str' object is not callable
 
 1.  `print()` 코드가 실행되면
 2.  함수에서 실행된 코드가 아니기 때문에 `L`, `E` 를 건너 뛰고,
-3.  `print`라는 식별자를 Global scope에서 찾아서 `print = ssafy`를 가져오고,
+3.  `print`라는 식별자를 Global scope에서 찾아서 `print = hello`를 가져오고,
 4.  이는 함수가 아니라 변수이기 때문에 `not callable`하다라는 오류를 내뱉게 됩니다.
 5.  우리가 원하는 `print()`은 Built-in scope에 있기 때문입니다.
 
