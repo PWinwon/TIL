@@ -6,6 +6,10 @@ decode_table = [
     ]
 T = int(input())
 
+# 입력받은 문자를 decode_table과 비교하여 그 index 값으로 변환(2진수)
+# 2진수로 저장을 할때는 앞의 '0b'문자와 0으로 채워져야한다는 것을 고려하여 처리
+# 2진수를 다시 8자리씩 나누어 chr을 이용해 디코딩
+
 for i in range(T):
     string = input()
     result = ''
