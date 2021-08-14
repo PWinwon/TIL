@@ -1,3 +1,25 @@
+## 현재의 웹 표준
+
+![image-20210814174912140](html.assets/image-20210814174912140.png)
+
+![image-20210814174925290](html.assets/image-20210814174925290.png)
+
+----
+
+### Markup language
+
+- 태그 등을 이용하여 문서나 데이터의 구조를 명시하는 언어
+- 프로그래밍 언어와는 다르게 단순하게 데이터를 표현하기만 한다.
+- 대표적인 예 - HTML, Markdown
+
+![image-20210814190110673](html.assets/image-20210814190110673.png)
+
+![image-20210814190120691](html.assets/image-20210814190120691.png)
+
+----
+
+
+
 # HTML
 
 ####  - Hyper Text Markup Language
