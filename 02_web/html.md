@@ -48,10 +48,10 @@ ex)
 ```html
 <body>
   <h1>웹문서</h1>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-    </ul>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
 </body>
 ```
 
@@ -132,9 +132,13 @@ ex)
 
 ![image-20210802204923644](html.assets/image-20210802204923644.png)
 
+- `form` 은 회원가입 창과 같은 여러 input 데이터를 서버로 보내주는 역할을 하는 것이라고 생각
+
 ![image-20210802204946538](html.assets/image-20210802204946538.png)
 
 - <input> 요소의 동작은 type에 따라 달라지므로, 각각의 내용을 숙지할 것.
+- `input` , `label` 을 연결할 때 !
+  - `label` 의 `for` 속성을 이용하여 `input`의 `id` 속성값을 넣어주어야함
 
 
 
