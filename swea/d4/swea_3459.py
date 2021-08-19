@@ -1,3 +1,18 @@
+# BOB = 0 , Alice = 1
+
+# lst_win = [0] * (10**18)
+# idx = 0
+# who = 1
+# fourth = 4
+# cnt = 0
+# while idx < 10**18 - 1:
+#     lst_win[idx+1] = who
+#     idx += 1
+#     cnt += 1
+#     if cnt == fourth:
+#         idx += fourth
+#         fourth *= 4
+#         cnt = 0
 result_lst = []
 
 test_case = int(input())
