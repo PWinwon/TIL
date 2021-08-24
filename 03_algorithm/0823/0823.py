@@ -112,7 +112,7 @@
 # 백트래킹 연습
 # import time
 # import os
-#
+
 # def map_print(nr, nc, type):
 #     os.system('cls')
 #     for y in range(7):
@@ -124,13 +124,18 @@
 #             else:
 #                 print(MAP[y][x], end='')
 #         print('')
+    
+#     for y in range(7):
+#         for x in range(10):
+#             print(visited[y][x], end='')
+#         print('')
 #     time.sleep(0.5)
-#
-#
+
+
 # #        상, 하, 좌, 우
 # dir_r = [-1, 1, 0, 0]
 # dir_c = [0, 0, -1, 1]
-#
+
 # def miro_tracking(r, c):
 #     if MAP[r][c] == '#':
 #         map_print(r,c,-1)
@@ -144,8 +149,8 @@
 #         miro_tracking(r+dir_r[idx], c+dir_c[idx])
 #         map_print(r, c, 0)
 #     return
-#
-#
+
+
 # MAP = [
 #     "##########",
 #     "#_#___#__#",
