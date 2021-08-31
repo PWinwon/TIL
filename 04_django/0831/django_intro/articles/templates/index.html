@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Hello world!!</h1>
+넘어 오는 값 : {{ name }}<br>
+---------------------------<br>
+넘어오지 않는 값 : {{ title }}
+  <a href="{% url 'throw' %}">throw</a>
+  <a href="{% url 'dinner' %}">dinner</a>
+  <a href="{% url 'greeting' %}">greeting</a><br>
+  <a href="{% url 'index' %}">두번째 앱 index로 이동</a>
+
+  
+
+{% endblock  %}

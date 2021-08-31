@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+  <form action="{% url 'catch' %}" method="GET">
+    <label> 제목을 입력하세요 :
+      <input type="text" name="title">
+    </label>
+
+    <button>전달</button>
+  </form>
+  <a href="{% url 'index' %}">index로</a>
+
+{% endblock%}

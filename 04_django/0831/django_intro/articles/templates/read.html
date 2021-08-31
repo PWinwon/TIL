@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>READ Page</h1>
+<p>{{ user }}</p>
+<p>{{ article }}</p>
+
+<a href="{% url 'index' %}">index로</a>
+{% endblock content %}
