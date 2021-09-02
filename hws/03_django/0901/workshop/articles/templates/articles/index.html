@@ -8,8 +8,9 @@
   {% for article in articles %}
     <h2>제목 : {{ article.title }}</h2>
     <p>내용 : {{ article.content }}</p>
+    <a href="#" class="text-decoration-none">DETAIL</a>
+    <hr>
   {% endfor %}
 
-  <a href="#" class="text-decoration-none">DETAIL</a>
 
 {% endblock content %}

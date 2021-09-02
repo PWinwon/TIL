@@ -1,4 +1,6 @@
 from django.shortcuts import render
+
+
 from .models import Article
 
 # Create your views here.
@@ -7,17 +9,16 @@ def index(request):
     context = {
         'articles': articles,
     }
-
-    return render(request, 'index.html', context)
+    return render(request, 'articles/index.html', context)
 
 
 def new(request):
-    return render(request, 'new.html')
+    return render(request, 'articles/new.html')
 
 
 def create(request):
     title = request.POST.get('title')
     content = request.POST.get('content')
-    articles = Article(title=title, content=content)
-    articles.save()
-    return render(request, 'create.html')
+    article = Article(title=title, content=content)
+    article.save()
+    return render(request, 'articles/create.html')
