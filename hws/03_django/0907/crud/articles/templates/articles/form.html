@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+  <h2>NEW</h2>
+  <form action="" method="POST">
+  {% csrf_token %}
+  {{ form.as_p }}
+  
+  <button>submit</button>
+  </form>
+  {% if chk == 'update' %}
+    <a href="{% url 'articles:detail' article.pk %}">BACK</a>
+  {% elif chk == 'create' %}
+    <a href="{% url 'articles:index' %}">BACK</a>
+  {% endif %}
+{% endblock content %}
