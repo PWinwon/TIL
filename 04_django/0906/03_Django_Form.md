@@ -432,3 +432,247 @@ def update(request, pk):
   - django가 해당 model에서 양식에 필요한 대부분의 정보를 이미 정의
   - 어떤 레코드를 만들어야 할 지 알고 있으므로 바로 .save()호출 가능
 
+
+
+
+
+## Rendering fields manually
+
+#### 1. Rendering fields manually
+
+>articles/create.html
+
+```django
+  <h1>CREATE</h1>
+  <form action="{% url 'articles:create' %}" method="POST">
+    {% csrf_token %}
+    <div>
+   	  {{ form.title.errors }}
+      {{ form.title.label_tag }}
+      {{ form.title }}  
+    </div>
+	<div>
+   	  {{ form.content.errors }}
+      {{ form.content.label_tag }}
+      {{ form.content }}  
+    </div>
+    <button type="submit" class="btn btn-primary">
+      Submit
+    </button>
+  </form>
+```
+
+
+
+#### 2. Looping over the form's fields
+
+> articles/create.html
+
+```django
+  <h1>CREATE</h1>
+  <form action="{% url 'articles:create' %}" method="POST">
+    {% csrf_token %}
+    {% for field in form %}
+      {{ field.errors }}
+      {{ field.lable_tag }}
+      {{ field }}
+    {% endfor%}
+    <button type="submit" class="btn btn-primary">
+      Submit
+    </button>
+  </form>
+```
+
+
+
+### Bootstrap과 함께 사용하기
+
+#### 1. Bootstrap Form class
+
+> forms.py
+
+```python
+class ArticleForm(forms.ModelForm):
+    title = forms.CharField(
+        label='제목',
+        widget=forms.TextInput(
+            attrs={
+                'class': 'my-title form-control',
+                'placeholder': 'Enter the title',
+                'maxlength': 10,
+            }
+        ),
+    )
+    content = forms.CharField(
+        label='내용',
+        widget=forms.Textarea(
+            attrs={
+                'class': 'my-content form-control',
+                'placeholder': 'Enter the content',
+                'rows': 5,
+                'cols': 50,
+            }
+        ),
+        error_messages={
+            'required': '내용 넣어라...',
+        }
+    )
+```
+
+
+
+> articles/create.html
+
+```django
+  <h1>CREATE</h1>
+  <form action="{% url 'articles:create' %}" method="POST">
+    {% csrf_token %}
+    {% for field in form %}
+      {% if field.errors %}
+        {% for error in field.errors %}
+      	  <div class="alert alert-warning" role="alert">
+              {{ error|escape }}
+          </div>
+     	{% endfor%}
+      {%endif%}
+      <div class="form-group">
+          {{ field.label_tag }}
+          {{ field }}
+      </div>
+    {% endfor%}
+    <button type="submit" class="btn btn-primary">
+      Submit
+    </button>
+  </form>
+```
+
+
+
+#### 2. Django Bootstrap Library
+
+- django-bootstrap v5
+  - form class에 bootstrap을 적용시켜주는 라이브러리
+
+> settings.py
+
+```python
+INSTALLED_APPS = [
+    ...,
+	'bootstrap5'
+    ...,
+]
+```
+
+
+
+> base.html
+
+```django
+{% load bootstrap5 %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% bootstrap_css %}
+  <title>Document</title>
+</head>
+<body>
+  <div class="container">
+    {% block content %}
+    {% endblock content %}
+  </div>
+  {% bootstrap_javascript %}
+</body>
+</html>
+```
+
+
+
+> articles/update.html
+
+```django
+{% extends 'base.html' %}
+{% load bootstrap5 %}
+
+{% block content %}
+  <h1>CREATE</h1>
+  <form action="{% url 'articles:create' %}" method="POST">
+    {% csrf_token %}
+    {% bootstrap_form form layout='horizontal' %}
+    {% buttons %}
+    <button type="submit" class="btn btn-primary">
+      Submit
+    </button>
+  {% endbuttons %}
+  </form>
+  <hr>
+  <a href="{% url 'articles:index' %}">[back]</a>
+{% endblock  %}
+```
+
+
+
+## Handling HTTP requests
+
+- Django에서 HTTP 요청을 처리하는 방법
+  - Django shortcut functions
+  - View decorators
+
+
+
+### Django shortcuts functions
+
+- django.shortcuts 패키지는 개발에 도움 될 수 있는 여러 함수와 클래스를 제공
+- shortcuts function 종류
+  - render()
+  - redirect()
+  - get_object_or_404()
+  - get_list_or_404()
+
+
+
+##### get_object_or_404()
+
+- 모델 manager objects에서 get()을 호출하지만, 해당 객체가 없을 경우 DoesNotExist 예외 대신 Http 404를 raise
+- get() 메서드에 경우 조건에 맞는 데이터가 없을 경우에 에러를 발생시킴
+  - 코드 실행 단계에서 발생한 에러에 대해서 브라우저는 http status code 500으로 인식함
+- 상황에 따라 적절한 예외처리를 하고 클라이언트에게 올바른 에러를 전달하는 것 또한 개발의 중요한 요소 중 하나
+
+![image-20210908235452783](03_Django_Form.assets/image-20210908235452783.png)
+
+![image-20210908235458495](03_Django_Form.assets/image-20210908235458495.png)
+
+
+
+### Django View decorators
+
+- Django는 다양한 HTTp 기능을 지원하기 위해 뷰에 적용할 수 있는 여러 데코레이터를 제공
+
+
+
+##### Allowed HTTP methods
+
+- 요청 메서드에 따라 view 함수에 대한 엑세스를 제한
+- 요청이 조건을 충족시키지 못하면 `HttpResponseNotAllowed`을 return (405 Method Not Allowed)
+- require_http_methods(), require_POST(), require_safe(), require_GET()
+
+
+
+##### require_http_methods()
+
+- view 함수가 특정한 method 요청에 대해서만 허용하도록 하는 데코레이터
+
+
+
+##### require_POST()
+
+- view 함수가 POST method 요청만 승인하도록 하는 데코레이터
+
+
+
+![image-20210909000652402](03_Django_Form.assets/image-20210909000652402.png)
+
+![image-20210909000701535](03_Django_Form.assets/image-20210909000701535.png)
+
