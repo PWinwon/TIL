@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+{% if article.pk %}
+<h1>UPDATE</h1>
+{% else %}
+<h1>CREATE</h1>
+{% endif %}
+<form action="" method="POST" enctype="multipart/form-data">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button>제출</button>
+</form>
+{% if article.pk %}
+  <a href="{% url 'articles:detail' article.pk %}">[back]</a>
+{% else %}
+  <a href="{% url 'articles:index' %}">[back]</a>
+{% endif %}
+{% endblock content %}
