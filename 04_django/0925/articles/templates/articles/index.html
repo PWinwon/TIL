@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+  <img src="{% static 'articles/main.gif' %}" alt="main-img">
+  <img src="{% static 'images/sample-img-3.png' %}" alt="sample-img-3">
+  <hr>
+  <a href="{% url 'articles:create' %}">create</a>
+  <h1>index</h1>
+  {% for article in articles %}
+    <h2>{{ article.title }}</h2>
+    <p>{{ article.content }}</p>
+    <a href="{% url 'articles:detail' article.pk %}">detail</a>
+  {% empty %}
+    <h2>저장된 글이 엄서용</h2>
+  {% endfor %}
+{% endblock content %}
