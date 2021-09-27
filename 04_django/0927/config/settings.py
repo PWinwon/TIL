@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-#04+t2e$%*zj*cqw3@*sy=rgu6@fqr4x*)scpqqa+nve=xwu4s'
+SECRET_KEY = 'django-insecure-e72r73$z_o(h4)g#zgjvg7eizt#!nxzzqeec_p085x0++&mujw'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -33,9 +33,6 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'articles',
     'accounts',
-    
-    'imagekit',
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -123,8 +120,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
-
-# STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 STATICFILES_DIRS = [
     BASE_DIR / 'static',

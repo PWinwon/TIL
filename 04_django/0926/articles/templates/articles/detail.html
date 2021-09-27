@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+  <h1>Detail</h1>
+  <h2>Title : {{ article.title }}</h2>
+  <p>content : {{ article.content }}</p>
+  <p>created_at : {{ article.created_at }}</p>
+  <p>updated_at : {{ article.updated_at }}</p>
+  {% if article.image %}
+    <img src="{{ article.image.url }}" alt="{{ article.image }}">
+  {% endif %}
+  <hr>
+  <a href="{% url 'articles:update' article.pk %}">수정</a>
+  <form action="{% url 'articles:delete' article.pk %}" method="POST">
+    {% csrf_token %}
+    <button>DELETE</button>
+  </form>
+{% endblock content %}
