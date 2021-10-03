@@ -103,8 +103,8 @@
 
    ```sql
    -- sql
-   INSERT INTO users_user
-   VALUES ('Kim', 'ed', 20, 'Gumi', '010-1234-5678', 100);
+   INSERT INTO users_user ("first_name", "last_name", "age", "country", "phone", "balance")
+   VALUES('Kim', 'ed', 20, 'Gumi', '010-1234-5678', 100);
    ```
 
    * 하나의 레코드를 빼고 작성 후 `NOT NULL` constraint 오류를 orm과 sql에서 모두 확인 해보세요.
@@ -135,7 +135,7 @@
 
       ```sql
    -- sql
-   UPDATE SET last_name='김' WHERE id=102
+   UPDATE users_user SET last_name='김' WHERE id=102;
       ```
 
 5. 해당 user 레코드 삭제
@@ -150,7 +150,7 @@
    
    ```sql
    -- sql
-   DELETE FROM users_user WHERE id=102;
+   DELETE FROM users_user WHERE id=101;
    ```
 
 
@@ -255,7 +255,7 @@
 
    ```python
    # orm
-   User.objects.filter(phone__startswith='02').count()
+   User.objects.filter(phone__startswith='02-').count()
    ```
 
       ```sql
