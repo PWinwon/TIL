@@ -91,20 +91,24 @@
 
       ```sql
    -- sql
-   SELECT * FROM users_user;
+   SELECT *
+   FROM users_user;
       ```
 
 2. user 레코드 생성
 
    ```python
    # orm
-   User.objects.create(first_name='Kim', last_name='ed', age=20, country='Gumi', phone='010-1234-5678', balance=100)
+   User.objects.create(first_name='sw', last_name='Park', age=26, country='경상북도', phone='010-1234-5678', balance=100)
    ```
 
    ```sql
    -- sql
-   INSERT INTO users_user ("first_name", "last_name", "age", "country", "phone", "balance")
-   VALUES('Kim', 'ed', 20, 'Gumi', '010-1234-5678', 100);
+   INSERT INTO users_user
+   VALUES (107, 'sw', 'Park', 26, '경상북도', '010-1234-5678', 100);
+   
+   INSERT INTO users_user ('first_name', 'last_name', 'age', 'country', 'phone', 'balance')
+   VALUES ('sw', 'Park', 26, '경상북도', '010-1234-5678', 100);
    ```
 
    * 하나의 레코드를 빼고 작성 후 `NOT NULL` constraint 오류를 orm과 sql에서 모두 확인 해보세요.
@@ -115,12 +119,16 @@
 
    ```python
    # orm
-   User.objects.get(pk=102)
+   User.objects.get(pk=103)
+   
+   User.objects.filter(pk=103)
    ```
 
    ```sql
    -- sql
-   SELECT * FROM users_user WHERE id=102;
+   SELECT *
+   FROM users_user
+   WHERE id=103;
    ```
 
 4. 해당 user 레코드 수정
@@ -130,12 +138,15 @@
 
    ```python
    # orm
-   User.objects.filter(id=102).update(last_name='김')
+   
+   User.objects.filter(pk=103).update(last_name='김')
    ```
 
       ```sql
    -- sql
-   UPDATE users_user SET last_name='김' WHERE id=102;
+   UPDATE users_user
+   SET last_name='김'
+   WHERE id=104;
       ```
 
 5. 해당 user 레코드 삭제
@@ -145,12 +156,14 @@
 
    ```python
    # orm
-   User.objects.get(id=102).delete()
+   User.objects.filter(pk=109).delete()
    ```
    
    ```sql
    -- sql
-   DELETE FROM users_user WHERE id=101;
+   DELETE
+   FROM users_user
+   WHERE id=108;
    ```
 
 
@@ -167,13 +180,16 @@
 
    ```python
    # orm
-   User.objects.count()
+   User.objects.all().count()
    ```
 
    ```sql
    -- sql
-   SELECT COUNT(*) FROM users_user;
+   SELECT COUNT(*) AS my_count
+   FROM users_user;
    ```
+
+   
 
 2. 나이가 30인 사람의 이름
 
@@ -182,12 +198,14 @@
 
    ```python
    # orm
-   User.objects.filter(age=30).values('first_name')
+   User.objects.filter(age=30).values('last_name', 'first_name')
    ```
 
       ```sql
    -- sql
-   SELECT first_name FROM users_user WHERE age=30;
+   SELECT first_name, last_name
+   FROM users_user
+   WHERE age=30;
       ```
 
 3. 나이가 30살 이상인 사람의 인원 수
@@ -238,8 +256,7 @@
 
    ```python
    # orm
-   # from django.db.models import Q
-   User.objects.filter(Q(age=30) | Q(last_name='김'))
+   User.objects.filter(Q(age=30)|Q(last_name='김'))
    ```
 
    ```sql
@@ -328,7 +345,7 @@
    -- sql
    SELECT *
    FROM users_user
-   ORDER BY balance,age DESC
+   ORDER BY balance, age DESC
    LIMIT 10;
    ```
    
@@ -429,37 +446,4 @@
    SELECT SUM(balance)
    FROM users_user;
       ```
-
-
-
------
-
-### 복합적으로 사용해보기
-
-1.  나이가 20세 이하인 사람들을 지역별인원수를 나타내어라
-
-```python
-# orm
-SELECT country, COUNT(country) FROM users_user WHERE age <= 19 GROUP BY country;
-```
-
-```sql
--- sql
-User.objects.values('country').annotate(Count('country')).filter(age__lte=20)
-```
-
-
-
-2. 
-
-```python
-# orm
-
-```
-
-```sql
--- sql
-```
-
-
 
