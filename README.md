@@ -16,7 +16,7 @@
 > [python] 학습한 내용 정리 및 복습
 
 - [데이터](https://github.com/PWinwon/TIL/blob/main/01_python/0719/0719.md)
-- [컨데이너](https://github.com/PWinwon/TIL/blob/main/01_python/0719/0719_Container.md)
+- [컨테이너](https://github.com/PWinwon/TIL/blob/main/01_python/0719/0719_Container.md)
 - [제어문 & 조건문](https://github.com/PWinwon/TIL/blob/main/01_python/0719/0719_controlflow.md)
 
 - [함수 1](https://github.com/PWinwon/TIL/blob/main/01_python/0721/0721_function1.md)
