@@ -67,12 +67,11 @@
 - [Django_intro](https://github.com/PWinwon/TIL/blob/main/04_django/0831/Django_intro.md)
 - [Django model](https://github.com/PWinwon/TIL/blob/main/04_django/0901/01_Django_model.md)
 - [Django Admin](https://github.com/PWinwon/TIL/blob/main/04_django/0901/02_Django_Admin.md)
-
 - [Django Form](https://github.com/PWinwon/TIL/tree/main/04_django/0906)
 - [Django CRUD 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0925/articles)
 - [Django Auth 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0925/accounts)
-
 - [Django static 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0927)
+- [Django_DB 1:N & N:M 관계 데이터 모델링 실습]()
 
 
 
