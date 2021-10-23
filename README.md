@@ -71,7 +71,7 @@
 - [Django CRUD 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0925/articles)
 - [Django Auth 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0925/accounts)
 - [Django static 실습](https://github.com/PWinwon/TIL/tree/main/04_django/0927)
-- [Django_DB 1:N & N:M 관계 데이터 모델링 실습]()
+- [Django_DB 1:N & N:M 관계 데이터 모델링 실습](https://github.com/PWinwon/TIL/tree/main/04_django/1022)
 
 
 
