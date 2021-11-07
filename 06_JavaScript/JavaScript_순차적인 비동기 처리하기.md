@@ -152,7 +152,33 @@
 
 
 
-> 
+> Promise가 보장하는 것
+
+- Async callback 작성 스타일과 달리 Promise가 보장하는 특징
+
+1. callback 함수는 JavaScript의 Event Loop가 현재 실행 중인 Call Stack을 완료하기 이전에는 절대 호출되지 않음
+   - Promise callback 함수는 Event Queue에 배치되는 엄격한 순서로 호출됨
+2. 비동기 작업이 성공하거나 실패한 뒤에 .then() 메서드를 이용하여 추가한 경우에도 1번과 똑같이 동작
+3. .then() 을 여러 번 사용하여 여러 개의 callback 함수를 추가할 수 있음 (Chaining)
+   - 각각의 callback은 주어진 순서대로 하나하나 실행하게 됨
+   - Chaining은 Promise의 가장 뛰어난 장점
 
 
+
+#### II - 3. Axios
+
+- "Promise based HTTP client for the browser and Node.js"
+- 브라우저를 위한 Promise 기반의 클라이언트
+- 원래는 "XHR" 이라는 브라우저 내장 객체를 활용해 AJAX 요청을 처리하는데, 이보다 편리한 AJAX 요청이 가능하도록 도움을 줌
+  - 확장 가능한 인터페이스와 함께 패키지로 사용이 간편한 라이브러리를 제공
+
+![image-20211108002315076](JavaScript_순차적인 비동기 처리하기.assets/image-20211108002315076.png)
+
+
+
+![image-20211108002552130](JavaScript_순차적인 비동기 처리하기.assets/image-20211108002552130.png)
+
+
+
+![image-20211108002600465](JavaScript_순차적인 비동기 처리하기.assets/image-20211108002600465.png)
 
