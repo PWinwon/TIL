@@ -126,3 +126,50 @@
 
 ![image-20211106182842373](JavaScript_Asynchronous.assets/image-20211106182842373.png)
 
+
+
+> "JavaScript는 single threaded 이다."
+
+- 컴퓨터가 여러 개의 CPU를 가지고 있어도 main thread라 불리는 단일 스레드에서만 작업 수행
+- 즉, 이벤트를 처리하는 Call Stack이 하나인 언어라는 의미
+- 이 문제를 해결하기 위해 JavaScript는
+  - 즉시 처리하지 못하는 이벤트들을 다른 곳(Web API)으로 보내서 처리하도록 하고,
+  - 처리된 이벤트들은 처리된 순서대로 대기실(Task queue)에 줄을 세워 놓고
+  - Call Stack이 비면 담당자(Event Loop)가 대기 줄에서 가장 오래된(제일 앞의) 이벤트를 Call Stack으로 보냄
+
+
+
+### III . Concurrency model
+
+> Event loop를 기반으로 하는 동시성 모델(Concurrency model)
+
+
+
+#### III - 1. CallStack
+
+- 요청이 들어올 때마다 해당 요청을 순차적으로 처리하는 Stack(LIFO) 형태의 자료 구조
+
+
+
+#### III - 2. WebAPI(Browser API)
+
+- JavaScript 엔진이 아닌 브라우저 영역에서 제공하는 API
+- setTimeout(), DOM events 그리고 AJAX로 데이터를 가져오는 시간이 소요되는 일들을 처리
+
+
+
+#### III - 3. Task Queue (Event Queue, Message Queue)
+
+- 비동기 처리된 callback 함수가 대기하는 Queue(FIFO) 형태의 자료 구조
+- main thread가 끝난 후 실행되어 후속 JavaScript 코드가 차단되는 것을 방지
+
+
+
+#### III - 4. Event Loop
+
+- Call Stack이 비어 있는지 확인
+- 비어 있는 경우 Task Queue에서 실행 대기 중인 callback 함수가 있는지 확인
+- Task Queue에 대기 중인 callback 함수가 있다면 가장 앞에 있는 callback 함수를 Call Stack으로 push
+
+
+
