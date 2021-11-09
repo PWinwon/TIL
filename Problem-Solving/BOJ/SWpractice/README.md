@@ -13,3 +13,4 @@
 
 - [BOJ_15685(드래곤 커브)](https://www.acmicpc.net/problem/15685)
 
+- [BOJ_20058(마법사 상어와 파이어스톰)](https://www.acmicpc.net/problem/20058)
