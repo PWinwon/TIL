@@ -1,20 +1,16 @@
-
-
-def my_func(n):
-    if len(n) < 2:
-        return True
-    else:
-        if n[0] == n[-1]:
-            my_func(n[1:len(n-2)])
-        else:
-            return False
-
-
 while True:
-    num = input()
-    if num == '0':
+    s = input()
+    if s == '0':
         break
-    if my_func(num):
-        print('Yes')
+    chk = True
+    while len(s) >= 2:
+        if s[0] == s[len(s)-1]:
+            s = s[1:len(s)-1]
+        else:
+            chk = False
+            break
+
+    if chk:
+        print('yes')
     else:
-        print('No')
+        print('no')
