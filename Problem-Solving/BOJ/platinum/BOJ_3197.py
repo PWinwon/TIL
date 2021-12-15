@@ -1,90 +1,94 @@
-# 실패
-# 한번의 탐색으로 얼음을 카운트하고
-# 백조가 만날수 있는지 탐색하는 방법을 고려해보자
+from collections import deque
+
+
+def swan_chk(q):
+    ret_que = deque()
+
+    while q:
+        y, x = q.popleft()
+
+        for i in range(4):
+            y_idx = y + dr[i]
+            x_idx = x + dc[i]
+
+            if y_idx < 0 or y_idx >= R or x_idx < 0 or x_idx >=C:
+                continue
+            if used[y_idx][x_idx]:
+                continue
+
+            if MAP[y_idx][x_idx] == 'L':
+                return 'S'
+
+            elif MAP[y_idx][x_idx] == 'X':
+                ret_que.append([y_idx, x_idx])
+
+            elif MAP[y_idx][x_idx] == '.':
+                q.append([y_idx, x_idx])
+            used[y_idx][x_idx] = 1
+
+    return ret_que
+
+
+def melt_ice():
+    ice_side_cnt = len(ice_side)
+
+    for j in range(ice_side_cnt):
+        y, x = ice_side.popleft()
+        MAP[y][x] = '.'
+        for i in range(4):
+            y_idx = y + dr[i]
+            x_idx = x + dc[i]
+
+            if y_idx < 0 or y_idx >= R or x_idx < 0 or x_idx >= C:
+                continue
+            if MAP[y_idx][x_idx] == 'X' and ice_melt_time[y_idx][x_idx] == 0:
+                ice_side.append([y_idx, x_idx])
+                ice_melt_time[y_idx][x_idx] = ice_melt_time[y][x] + 1
+
+
 
 dr = [-1, 1, 0, 0]
 dc = [0, 0, -1, 1]
 
 
-from collections import deque
-
-def melting_ice(r, c):
-    que = deque()
-    que.append([r, c])
-    used[r][c] = 1
-    while que:
-        row, col = que.popleft()
-        for i in range(4):
-            r_idx = row + dr[i]
-            c_idx = col + dc[i]
-            if r_idx < 0 or r_idx >= R or c_idx < 0 or c_idx >= C:
-                continue
-            if used[r_idx][c_idx] > 0:
-                continue
-            if MAP[r_idx][c_idx] == 'X':
-                used[r_idx][c_idx] = 1
-                continue
-            elif MAP[r_idx][c_idx] == 'L':
-                used[r_idx][c_idx] = 2
-                que.append([r_idx, c_idx])
-            else:
-                used[r_idx][c_idx] = 1
-                que.append([r_idx, c_idx])
-    return
-
 R, C = map(int, input().split())
 
 MAP = [list(input()) for _ in range(R)]
+used = [[0 for _ in range(C)] for _ in range(R)]
+ice_melt_time = [[0 for _ in range(C)] for _ in range(R)]
 
+ice_side = deque()
 
 for r in range(R):
     for c in range(C):
         if MAP[r][c] == 'L':
-            swan_r = r
-            swan_c = c
+            swan = [r, c]
             break
-chk = False
-result = 1
-while True:
-    used = [[0 for _ in range(C)] for _ in range(R)]
-    # 얼음이 녹는다.
-    de = -1
-    for r in range(R):
-        for c in range(C):
-            if MAP[r][c] == '.' and used[r][c] == 0:
-                melting_ice(r, c)
-    # 백조 이동
-    visited = [[0 for _ in range(C)] for _ in range(R)]
-    swan_move = deque()
-    swan_move.append([swan_r, swan_c])
-    visited[swan_r][swan_c] = 1
-    while swan_move:
-        row, col = swan_move.popleft()
-        if (row != swan_r or col != swan_c) and used[row][col] == 2:
-            chk = True
-            break
-        for i in range(4):
-            r_idx = row + dr[i]
-            c_idx = col + dc[i]
-            if r_idx < 0 or r_idx >= R or c_idx < 0 or c_idx >= C:
-                continue
-            if used[r_idx][c_idx] == 0:
-                continue
-            if visited[r_idx][c_idx] == 1:
-                continue
-            swan_move.append([r_idx, c_idx])
-            visited[r_idx][c_idx] = 1
 
-    if chk:
+for r in range(R):
+    for c in range(C):
+        if MAP[r][c] == 'X':
+            for i in range(4):
+                r_idx = r + dr[i]
+                c_idx = c + dc[i]
+
+                if r_idx < 0 or r_idx >= R or c_idx < 0 or c_idx >= C:
+                    continue
+                if MAP[r_idx][c_idx] == '.' or MAP[r_idx][c_idx] == 'L':
+                    ice_melt_time[r][c] = 1
+                    ice_side.append([r, c])
+                    break
+
+# 백조를 que에 추가
+
+que = deque()
+que.append([swan[0], swan[1]])
+used[swan[0]][swan[1]] = 1
+result = 0
+while True:
+    que = swan_chk(que)
+    if que == 'S':
+        print(result)
         break
-    else:
-        for r in range(R):
-            for c in range(C):
-                if used[r][c] == 1:
-                    MAP[r][c] = '.'
-                elif used[r][c] == 2:
-                    MAP[r][c] = 'L'
-                else:
-                    MAP[r][c] = 'X'
+    melt_ice()
     result += 1
-print(result)
