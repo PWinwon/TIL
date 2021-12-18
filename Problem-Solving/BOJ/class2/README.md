@@ -8,3 +8,5 @@
 - [BOJ_1654(랜선 자르기)](https://www.acmicpc.net/problem/1654)
 - [BOJ_1874(스택수열)](https://www.acmicpc.net/problem/1874)
 - [BOJ_1920(수 찾기) - 실버4](https://www.acmicpc.net/problem/1920)
+- [BOJ_1966(프린터 큐) - 실버3](https://www.acmicpc.net/problem/1966)
+- [BOJ_1978(소수 찾기) - 실버4](https://www.acmicpc.net/problem/1978)
