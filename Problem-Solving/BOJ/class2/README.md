@@ -12,3 +12,4 @@
 - [BOJ_1978(소수 찾기) - 실버4](https://www.acmicpc.net/problem/1978)
 - [BOJ_2108(통계학)](https://www.acmicpc.net/problem/2108)
 - [BOJ_2164(카드2) - 실버4](https://www.acmicpc.net/problem/2164)
+- [BOJ_2231(분해합)](https://www.acmicpc.net/problem/2231)
