@@ -14,3 +14,4 @@
 - [BOJ_2164(카드2) - 실버4](https://www.acmicpc.net/problem/2164)
 - [BOJ_2231(분해합)](https://www.acmicpc.net/problem/2231)
 - [BOJ_2292(벌집)](https://www.acmicpc.net/problem/2292)
+- [BOJ_2609(최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)
