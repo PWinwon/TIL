@@ -15,3 +15,4 @@
 - [BOJ_2231(분해합)](https://www.acmicpc.net/problem/2231)
 - [BOJ_2292(벌집)](https://www.acmicpc.net/problem/2292)
 - [BOJ_2609(최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)
+- [BOJ_2751(수 정렬하기2)](https://www.acmicpc.net/problem/2751)
