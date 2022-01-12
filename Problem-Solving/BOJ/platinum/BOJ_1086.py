@@ -1,22 +1,3 @@
-import sys
-sys.stdin = open('input.txt', 'r')
-
-
-def my_fun(level, num):
-    global N, K, result
-    if level == N:
-        if int(num) % K == 0:
-            result += 1
-        return
-
-    for i in range(N):
-        if used[i] == 0:
-            used[i] = 1
-            my_fun(level+1, num+str(lst[i]))
-            used[i] = 0
-    return
-
-
 def gcd(a, b):
     while b != 0:
         temp = a % b
@@ -33,11 +14,9 @@ N = int(input())
 lst = []
 
 for n in range(N):
-    lst.append(input())
-
-lst_int = []
-lst_len = []
-
+    string_temp = input()
+    string_temp2 = string_temp[::-1]
+    lst.append(string_temp2)
 K = int(input())
 
 # 성원이가 말할 수 있는 답의 개수 : N!
@@ -56,10 +35,10 @@ for n in range(1, N+1):
 
 # (2) 50자리 확장에 대한 K에 대한 나머지 미리 구하기 [extnd_lst]
 
-extnd_lst = [0] * 50
+extnd_lst = [0] * 51
 extnd_lst[0] = 1
 
-for i in range(1, 50):
+for i in range(1, 51):
     extnd_lst[i] = (extnd_lst[i-1] * 10) % K
 
 
@@ -72,31 +51,22 @@ for i in range(N):
         temp %= K
     mod_lst[i] = temp
 
-print(mod_lst)
 
 
 # dp 만들기
 # dp[현재뽑은숫자들을 2진수형태로 비트마스킹 후 10진수로 변환한 index][K로 나누었을 때 나머지]
-dp = [[-1] * K for _ in range(1<<N)]
+dp = [[0] * K for _ in range(1<<N)]
+dp[0][0] = 1
+for i in range(1<<N):
+    for j in range(K):
+        for k in range(N):
+            if (i&(1<<k)) == 0:
+                temp = j*extnd_lst[len(lst[k])]
+                temp %= K
+                temp += mod_lst[k]
+                temp %= K
+                dp[i|(1<<k)][temp] += dp[i][j]
 
 
-
-
-result = 0
-used = [0] * N
-my_fun(0, '')
-#
-#
-#
-# if result == 0:
-#     print('0/1')
-# elif result == nfact:
-#     print('1/1')
-# else:
-#     num_gcd = gcd(result, nfact)
-#     result //= num_gcd
-#     nfact //= num_gcd
-#     print('{}/{}'.format(result, nfact))
-
-
-
+g = gcd(dp[(1<<N)-1][0], nfact)
+print('{}/{}'.format(dp[(1<<N)-1][0] // g, nfact//g))
