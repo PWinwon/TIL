@@ -3,6 +3,7 @@
 - [BOJ_1018(체스판 다시 칠하기)](https://www.acmicpc.net/problem/1018)
 - [BOJ_10250(ACM 호텔)](https://www.acmicpc.net/problem/10250)
 - [BOJ_10814(나이순 정렬)](https://www.acmicpc.net/problem/10814)
+- [BOJ_10816(숫자 카드 2)](https://www.acmicpc.net/problem/10816)
 - [BOJ_1085(직사각형에서 탈출)](https://www.acmicpc.net/problem/1085)
 - [BOJ_1181(단어 정렬)](https://www.acmicpc.net/problem/1181)
 - [BOJ_1259(팰린드롬수)](https://www.acmicpc.net/problem/1259)
