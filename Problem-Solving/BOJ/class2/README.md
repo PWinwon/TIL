@@ -11,6 +11,7 @@
 - [BOJ_11050(이항 계수1)](https://www.acmicpc.net/problem/11050)
 - [BOJ_11650(좌표 정렬하기)](https://www.acmicpc.net/problem/11650)
 - [BOJ_1181(단어 정렬)](https://www.acmicpc.net/problem/1181)
+- [BOJ_11866(요세푸스 문제 0)](https://www.acmicpc.net/problem/11866)
 - [BOJ_1259(팰린드롬수)](https://www.acmicpc.net/problem/1259)
 - [BOJ_1436(영화감독 숌)](https://www.acmicpc.net/problem/1436)
 - [BOJ_1654(랜선 자르기)](https://www.acmicpc.net/problem/1654)
