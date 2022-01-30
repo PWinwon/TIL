@@ -27,5 +27,6 @@
 - [BOJ_2751(수 정렬하기2)](https://www.acmicpc.net/problem/2751)
 - [BOJ_2775(부녀회장이 될테야)](https://www.acmicpc.net/problem/2775)
 - [BOJ_2798(블랙잭)](https://www.acmicpc.net/problem/2798)
+- [BOJ_2805(나무 자르기)](https://www.acmicpc.net/problem/2805)
 - [BOJ_4153(직각삼각형)](https://www.acmicpc.net/problem/4153)
 - [BOJ_9012(괄호)](https://www.acmicpc.net/problem/9012)
