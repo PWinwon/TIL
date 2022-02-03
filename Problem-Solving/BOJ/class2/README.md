@@ -32,4 +32,5 @@
 - [BOJ_2869(달팽이는 올라가고 싶다)](https://www.acmicpc.net/problem/2869)
 - [BOJ_4153(직각삼각형)](https://www.acmicpc.net/problem/4153)
 - [BOJ_4949(균형잡힌 세상)](https://www.acmicpc.net/problem/4949)
+- [BOJ_7568(덩치)](https://www.acmicpc.net/problem/7568)
 - [BOJ_9012(괄호)](https://www.acmicpc.net/problem/9012)
