@@ -2,6 +2,7 @@
 
 - [BOJ_1018(체스판 다시 칠하기)](https://www.acmicpc.net/problem/1018)
 - [BOJ_10250(ACM 호텔)](https://www.acmicpc.net/problem/10250)
+- [BOJ_10773(제로)](https://www.acmicpc.net/problem/10773)
 - [BOJ_10814(나이순 정렬)](https://www.acmicpc.net/problem/10814)
 - [BOJ_10816(숫자 카드 2)](https://www.acmicpc.net/problem/10816)
 - [BOJ_10828(스택)](https://www.acmicpc.net/problem/10828)
