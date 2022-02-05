@@ -9,6 +9,7 @@
 - [BOJ_10845(큐)](https://www.acmicpc.net/status?user_id=p9a3r5k0&problem_id=10845&from_mine=1)
 - [BOJ_1085(직사각형에서 탈출)](https://www.acmicpc.net/problem/1085)
 - [BOJ_10866(덱)](https://www.acmicpc.net/problem/10866)
+- [BOJ_10989(수 정렬하기 3)](https://www.acmicpc.net/problem/10989)
 - [BOJ_11050(이항 계수1)](https://www.acmicpc.net/problem/11050)
 - [BOJ_11650(좌표 정렬하기)](https://www.acmicpc.net/problem/11650)
 - [BOJ_1181(단어 정렬)](https://www.acmicpc.net/problem/1181)
