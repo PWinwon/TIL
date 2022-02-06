@@ -12,6 +12,7 @@
 - [BOJ_10989(수 정렬하기 3)](https://www.acmicpc.net/problem/10989)
 - [BOJ_11050(이항 계수1)](https://www.acmicpc.net/problem/11050)
 - [BOJ_11650(좌표 정렬하기)](https://www.acmicpc.net/problem/11650)
+- [BOJ_11651(좌표 정렬하기 2)](https://www.acmicpc.net/problem/11651)
 - [BOJ_1181(단어 정렬)](https://www.acmicpc.net/problem/1181)
 - [BOJ_11866(요세푸스 문제 0)](https://www.acmicpc.net/problem/11866)
 - [BOJ_1259(팰린드롬수)](https://www.acmicpc.net/problem/1259)
