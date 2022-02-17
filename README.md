@@ -4,7 +4,7 @@
 
 > 매일 1문제 PS 해결하기
 
-- [BOJ (141 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/BOJ)
+- [BOJ (145 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/BOJ)
 - [joungol (10 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/jongol)
 - [programmers (27 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/programmers)
 - [swea (242 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/swea)
