@@ -6,4 +6,5 @@
 - [BOJ_1676(팩토리얼 0의 개수)](https://www.acmicpc.net/problem/1676)
 - [BOJ_17219(비밀번호 찾기)](https://www.acmicpc.net/problem/17219)
 - [BOJ_1764(듣보잡)](https://www.acmicpc.net/problem/1764)
+- [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_9375(패션왕 신해빈)](https://www.acmicpc.net/problem/9375)
