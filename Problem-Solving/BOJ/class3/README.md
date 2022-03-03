@@ -1,6 +1,7 @@
 # 문제링크
 
 - [BOJ_1003(피보나치 함수)](https://www.acmicpc.net/problem/1003)
+- [BOJ_1074(Z)](https://www.acmicpc.net/problem/1074)
 - [BOJ_11047(동전 0)](https://www.acmicpc.net/problem/11047)
 - [BOJ_11279(최대 힙)](https://www.acmicpc.net/problem/11279)
 - [BOJ_11286(절댓값 힙)](https://www.acmicpc.net/problem/11286)
