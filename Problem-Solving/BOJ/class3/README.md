@@ -8,6 +8,7 @@
 - [BOJ_1620(나는야 포켓몬 마스터 이다솜)](https://www.acmicpc.net/problem/1620)
 - [BOJ_1676(팩토리얼 0의 개수)](https://www.acmicpc.net/problem/1676)
 - [BOJ_16928(뱀과 사다리 게임)](https://www.acmicpc.net/problem/16928)
+- [BOJ_1697(숨바꼭질)](https://www.acmicpc.net/problem/1697)
 - [BOJ_17219(비밀번호 찾기)](https://www.acmicpc.net/problem/17219)
 - [BOJ_1764(듣보잡)](https://www.acmicpc.net/problem/1764)
 - [BOJ_1927(최소 힙)](https://www.acmicpc.net/problem/1927)
