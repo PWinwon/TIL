@@ -12,6 +12,7 @@
 - [BOJ_17219(비밀번호 찾기)](https://www.acmicpc.net/problem/17219)
 - [BOJ_1764(듣보잡)](https://www.acmicpc.net/problem/1764)
 - [BOJ_1927(최소 힙)](https://www.acmicpc.net/problem/1927)
+- [BOJ_2630(색종이 만들기)](https://www.acmicpc.net/problem/2630)
 - [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
 - [BOJ_9375(패션왕 신해빈)](https://www.acmicpc.net/problem/9375)
