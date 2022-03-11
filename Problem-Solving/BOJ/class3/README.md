@@ -15,4 +15,5 @@
 - [BOJ_2630(색종이 만들기)](https://www.acmicpc.net/problem/2630)
 - [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
+- [BOJ_7662](https://www.acmicpc.net/problem/7662)
 - [BOJ_9375(패션왕 신해빈)](https://www.acmicpc.net/problem/9375)
