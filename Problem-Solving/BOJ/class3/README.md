@@ -15,6 +15,7 @@
 - [BOJ_1697(숨바꼭질)](https://www.acmicpc.net/problem/1697)
 - [BOJ_17219(비밀번호 찾기)](https://www.acmicpc.net/problem/17219)
 - [BOJ_1764(듣보잡)](https://www.acmicpc.net/problem/1764)
+- [BOJ_1780(종이의 개수)](https://www.acmicpc.net/problem/1780)
 - [BOJ_18770(좌표 압축)](https://www.acmicpc.net/problem/18870)
 - [BOJ_1927(최소 힙)](https://www.acmicpc.net/problem/1927)
 - [BOJ_2630(색종이 만들기)](https://www.acmicpc.net/problem/2630)
