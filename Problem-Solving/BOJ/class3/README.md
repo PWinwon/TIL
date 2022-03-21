@@ -18,6 +18,7 @@
 - [BOJ_1780(종이의 개수)](https://www.acmicpc.net/problem/1780)
 - [BOJ_18770(좌표 압축)](https://www.acmicpc.net/problem/18870)
 - [BOJ_1927(최소 힙)](https://www.acmicpc.net/problem/1927)
+- [BOJ_1992(쿼드트리)](https://www.acmicpc.net/problem/1992)
 - [BOJ_2630(색종이 만들기)](https://www.acmicpc.net/problem/2630)
 - [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
