@@ -10,6 +10,7 @@
 - [BOJ_17780(새로운 게임)](https://www.acmicpc.net/problem/17780)
 - [BOJ_1800(인터넷 설치)](https://www.acmicpc.net/problem/1800)
 - [BOJ_20061(모노미노도미노 2)](https://www.acmicpc.net/problem/20061)
-- [BOJ_3190(뱀)](https://www.acmicpc.net/problem/3190)
 - [BOJ_20058(마법사 상어와 파이어스톰)](https://www.acmicpc.net/problem/20058)
 - [BOJ_23291(어항 정리)](https://www.acmicpc.net/problem/23291)
+- [BOJ_3190(뱀)](https://www.acmicpc.net/problem/3190)
+- [BOJ_3665(최종 순위)](https://www.acmicpc.net/problem/3665)
