@@ -21,6 +21,7 @@
 - [BOJ_1992(쿼드트리)](https://www.acmicpc.net/problem/1992)
 - [BOJ_2579(계단 오르기)](https://www.acmicpc.net/problem/2579)
 - [BOJ_2630(색종이 만들기)](https://www.acmicpc.net/problem/2630)
+- [BOJ_5430(AC)](https://www.acmicpc.net/problem/5430)
 - [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
 - [BOJ_7662(이중 우선 순위 큐)](https://www.acmicpc.net/problem/7662)
