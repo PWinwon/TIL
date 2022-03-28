@@ -24,6 +24,7 @@
 - [BOJ_5430(AC)](https://www.acmicpc.net/problem/5430)
 - [BOJ_5525(IOIOI)](https://www.acmicpc.net/problem/5525)
 - [BOJ_6064(카잉 달력)](https://www.acmicpc.net/problem/6064)
+- [BOJ_7569(토마토)](https://www.acmicpc.net/problem/7569)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
 - [BOJ_7662(이중 우선 순위 큐)](https://www.acmicpc.net/problem/7662)
 - [BOJ_9095(1, 2, 3 더하기)](https://www.acmicpc.net/problem/9095)
