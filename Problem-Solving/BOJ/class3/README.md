@@ -16,6 +16,7 @@
 - [BOJ_16928(뱀과 사다리 게임)](https://www.acmicpc.net/problem/16928)
 - [BOJ_1697(숨바꼭질)](https://www.acmicpc.net/problem/1697)
 - [BOJ_17219(비밀번호 찾기)](https://www.acmicpc.net/problem/17219)
+- [BOJ_17626(Four Squares)](https://www.acmicpc.net/problem/17626)
 - [BOJ_1764(듣보잡)](https://www.acmicpc.net/problem/1764)
 - [BOJ_1780(종이의 개수)](https://www.acmicpc.net/problem/1780)
 - [BOJ_18770(좌표 압축)](https://www.acmicpc.net/problem/18870)
