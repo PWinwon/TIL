@@ -30,6 +30,7 @@
 - [BOJ_7569(토마토)](https://www.acmicpc.net/problem/7569)
 - [BOJ_7576(토마토)](https://www.acmicpc.net/problem/7576)
 - [BOJ_7662(이중 우선 순위 큐)](https://www.acmicpc.net/problem/7662)
+- [BOJ_9019(DSLR)](https://www.acmicpc.net/problem/9019)
 - [BOJ_9095(1, 2, 3 더하기)](https://www.acmicpc.net/problem/9095)
 - [BOJ_9375(패션왕 신해빈)](https://www.acmicpc.net/problem/9375)
 - [BOJ_9461(파도반 수열)](https://www.acmicpc.net/problem/9461)
