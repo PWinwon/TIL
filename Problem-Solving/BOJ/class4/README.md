@@ -1,4 +1,5 @@
 # 문제링크
+- [BOJ_11053(가장 긴 증가하는 부분 수열)](https://www.acmicpc.net/problem/11053)
 - [BOJ_11660(구간 합 구하기 5)](https://www.acmicpc.net/problem/11660)
 - [BOJ_15654(N과 M (5))](https://www.acmicpc.net/problem/15654)
 - [BOJ_15657(N과 M (8))](https://www.acmicpc.net/problem/15657)
