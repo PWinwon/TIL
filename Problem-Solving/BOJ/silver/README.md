@@ -4,6 +4,7 @@
 - [BOJ_11441(합 구하기)](https://www.acmicpc.net/problem/11441)
 - [BOJ_1158(요세푸스 문제)](https://www.acmicpc.net/problem/1158)
 - [BOJ_11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)
+- [BOJ_11728(배열 합치기)](https://www.acmicpc.net/problem/11728)
 - [BOJ_1463(1로 만들기)](https://www.acmicpc.net/problem/1463)
 - [BOJ_14716(현수막)](https://www.acmicpc.net/problem/14716)
 - [BOJ_15650(N과 M(2))](https://www.acmicpc.net/problem/15650)
