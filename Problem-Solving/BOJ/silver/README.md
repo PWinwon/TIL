@@ -11,6 +11,7 @@
 - [BOJ_15651(N과 M(3))](https://www.acmicpc.net/problem/15651)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_1912(연속합)](https://www.acmicpc.net/problem/1912)
+- [BOJ_1926(그림)](https://www.acmicpc.net/problem/1926)
 - [BOJ_1929(소수구하기)](https://www.acmicpc.net/problem/1929)
 - [BOJ_2003(수들의 합2)](https://www.acmicpc.net/problem/2003)
 - [BOJ_2156(포도주 시식)](https://www.acmicpc.net/problem/2156)
