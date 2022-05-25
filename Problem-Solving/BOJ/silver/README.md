@@ -21,3 +21,4 @@
 - [BOJ_4375(1)](https://www.acmicpc.net/problem/4375)
 - [BOJ_4963(섬의 개수)](https://www.acmicpc.net/problem/4963)
 - [BOJ_7562(나이트의 이동)](https://www.acmicpc.net/problem/7562)
+- [BOJ_9372(상근이의 여행)](https://www.acmicpc.net/problem/9372)
