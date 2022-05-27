@@ -9,5 +9,6 @@
 - [BOJ_10869(사칙연산)](https://www.acmicpc.net/problem/10869)
 - [BOJ_10926(??!)](https://www.acmicpc.net/problem/10926)
 - [BOJ_10998(AxB)](https://www.acmicpc.net/problem/10998)
+- [BOJ_25083(새싹)](https://www.acmicpc.net/problem/25083)
 - [BOJ_2588(Hello World)](https://www.acmicpc.net/problem/2557)
 
