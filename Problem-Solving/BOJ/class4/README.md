@@ -17,4 +17,5 @@
 - [BOJ_2407(조합)](https://www.acmicpc.net/problem/2407)
 - [BOJ_2559(수열)](https://www.acmicpc.net/problem/2559)
 - [BOJ_5639(이진 검색 트리)](https://www.acmicpc.net/problem/5639)
+- [BOJ_9251(LCS)](https://www.acmicpc.net/problem/9251)
 - [BOJ_9465(스티커)](https://www.acmicpc.net/problem/9465)
