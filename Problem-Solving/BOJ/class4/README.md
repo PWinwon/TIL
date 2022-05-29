@@ -1,5 +1,6 @@
 # 문제링크
 - [BOJ_11053(가장 긴 증가하는 부분 수열)](https://www.acmicpc.net/problem/11053)
+- [BOJ_11404(플로이드)](https://www.acmicpc.net/problem/11404)
 - [BOJ_1149(RGB거리)](https://www.acmicpc.net/problem/1149)
 - [BOJ_11660(구간 합 구하기 5)](https://www.acmicpc.net/problem/11660)
 - [BOJ_1167(트리의 지름)](https://www.acmicpc.net/problem/1167)
