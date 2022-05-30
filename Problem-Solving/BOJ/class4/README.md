@@ -11,6 +11,7 @@
 - [BOJ_1629(곱셈)](https://www.acmicpc.net/problem/1629)
 - [BOJ_16953(A -> B)](https://www.acmicpc.net/problem/16953)
 - [BOJ_1753(최단경로)](https://www.acmicpc.net/problem/1753)
+- [BOJ_1865(웜홀)](https://www.acmicpc.net/problem/1865)
 - [BOJ_1932(정수 삼각형)](https://www.acmicpc.net/problem/1932)
 - [BOJ_1967(트리의 지름)](https://www.acmicpc.net/problem/1967)
 - [BOJ_2096(내려가기)](https://www.acmicpc.net/problem/2096)
