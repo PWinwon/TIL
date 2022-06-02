@@ -10,6 +10,7 @@
 - [BOJ_14716(현수막)](https://www.acmicpc.net/problem/14716)
 - [BOJ_15650(N과 M(2))](https://www.acmicpc.net/problem/15650)
 - [BOJ_15651(N과 M(3))](https://www.acmicpc.net/problem/15651)
+- [BOJ_15656(N과 M(7))](https://www.acmicpc.net/problem/15656)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_18429(근손실)](https://www.acmicpc.net/problem/18429)
 - [BOJ_1912(연속합)](https://www.acmicpc.net/problem/1912)
