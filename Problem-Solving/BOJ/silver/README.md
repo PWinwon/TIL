@@ -1,6 +1,7 @@
 # 문제 링크
 
 - [BOJ_10815(숫자 카드)](https://www.acmicpc.net/problem/10815)
+- [BOJ_10971(외판원 순회2)](https://www.acmicpc.net/problem/10971)
 - [BOJ_10974(모든 순열)](https://www.acmicpc.net/problem/10974)
 - [BOJ_11441(합 구하기)](https://www.acmicpc.net/problem/11441)
 - [BOJ_1158(요세푸스 문제)](https://www.acmicpc.net/problem/1158)
