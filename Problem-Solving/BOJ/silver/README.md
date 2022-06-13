@@ -23,6 +23,7 @@
 - [BOJ_1929(소수구하기)](https://www.acmicpc.net/problem/1929)
 - [BOJ_2003(수들의 합2)](https://www.acmicpc.net/problem/2003)
 - [BOJ_2156(포도주 시식)](https://www.acmicpc.net/problem/2156)
+- [BOJ_2529(부등호)](https://www.acmicpc.net/problem/2529)
 - [BOJ_2581(소수)](https://www.acmicpc.net/problem/2581)
 - [BOJ_2644(촌수계산)](https://www.acmicpc.net/problem/2644)
 - [BOJ_4375(1)](https://www.acmicpc.net/problem/4375)
