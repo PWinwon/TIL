@@ -19,6 +19,7 @@
 - [BOJ_15663(N과 M(9))](https://www.acmicpc.net/problem/15663)
 - [BOJ_16198(에너지 모으기)](https://www.acmicpc.net/problem/16198)
 - [BOJ_1743(음식물 피하기)](https://www.acmicpc.net/problem/1743)
+- [BOJ_18258(큐 2)](https://www.acmicpc.net/problem/18258)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_18429(근손실)](https://www.acmicpc.net/problem/18429)
 - [BOJ_1912(연속합)](https://www.acmicpc.net/problem/1912)
