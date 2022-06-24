@@ -5,6 +5,7 @@
 - [BOJ 11724(연결 요소의 개수)](https://www.acmicpc.net/problem/11724)
 - [BOJ_11725(트리의 부모 찾기)](https://www.acmicpc.net/problem/11725)
 - [BOJ_1260(DFS와 BFS)](https://www.acmicpc.net/problem/1260)
+- [BOJ_14923(미로 탈출)](https://www.acmicpc.net/problem/14923)
 - [BOJ_17836(공주님을 구해라!)](https://www.acmicpc.net/problem/17836)
 - [BOJ_18405(경쟁적 전염)](https://www.acmicpc.net/problem/18405)
 - [BOJ_1987(알파벳)](https://www.acmicpc.net/problem/1987)
