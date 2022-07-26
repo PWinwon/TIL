@@ -19,6 +19,7 @@
 - [BOJ_21938(영상처리)](https://www.acmicpc.net/problem/21938)
 - [BOJ_24390(또 전자레인지야?)](https://www.acmicpc.net/problem/24390)
 - [BOJ_24444(알고리즘 수업 - 너비 우선 탐색 1)](https://www.acmicpc.net/problem/24444)
+- [BOJ_2583(영역 구하기)](https://www.acmicpc.net/problem/2583)
 - [BOJ_2606(바이러스)](https://www.acmicpc.net/problem/2606)
 - [BOJ_2667(단지번호붙이기)](https://www.acmicpc.net/problem/2667)
 - [BOJ_3184(양)](https://www.acmicpc.net/problem/3184)
