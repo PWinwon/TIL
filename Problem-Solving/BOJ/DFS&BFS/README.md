@@ -24,4 +24,5 @@
 - [BOJ_2667(단지번호붙이기)](https://www.acmicpc.net/problem/2667)
 - [BOJ_3184(양)](https://www.acmicpc.net/problem/3184)
 - [BOJ_3187(양치니 꿍)](https://www.acmicpc.net/problem/3187)
+- [BOJ_6593(상범 빌딩)](https://www.acmicpc.net/problem/6593)
 
