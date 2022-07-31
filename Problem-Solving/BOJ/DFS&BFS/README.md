@@ -9,6 +9,7 @@
 - [BOJ_1303(전쟁 - 전투)](https://www.acmicpc.net/problem/1303)
 - [BOJ_13565(침투)](https://www.acmicpc.net/problem/13565)
 - [BOJ_1388(바닥장식)](https://www.acmicpc.net/problem/1388)
+- [BOJ_14442(벽 부수고 이동하기2)](https://www.acmicpc.net/problem/14442)
 - [BOJ_14923(미로 탈출)](https://www.acmicpc.net/problem/14923)
 - [BOJ_14940(쉬운 최단거리)](https://www.acmicpc.net/problem/14940)
 - [BOJ_17086(아기 상어2)](https://www.acmicpc.net/problem/17086)
