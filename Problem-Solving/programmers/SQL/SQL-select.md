@@ -36,3 +36,13 @@ SELECT ANIMAL_ID, NAME FROM ANIMAL_INS WHERE INTAKE_CONDITION = 'Sick';
 SELECT ANIMAL_ID, NAME FROM ANIMAL_INS WHERE INTAKE_CONDITION != "Aged" ORDER BY ANIMAL_ID;
 ```
 
+
+
+### 5. 동물의 아이디와 이름
+
+[문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/59403?language=mysql)
+
+```sql
+SELECT ANIMAL_ID, NAME FROM ANIMAL_INS ORDER BY ANIMAL_ID;
+```
+
