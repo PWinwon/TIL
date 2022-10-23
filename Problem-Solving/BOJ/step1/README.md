@@ -11,4 +11,5 @@
 - [BOJ_10998(AxB)](https://www.acmicpc.net/problem/10998)
 - [BOJ_25083(새싹)](https://www.acmicpc.net/problem/25083)
 - [BOJ_2588(Hello World)](https://www.acmicpc.net/problem/2557)
+- [BOJ_3003(킹, 퀸, 룩, 비숍, 나이트, 폰)](https://www.acmicpc.net/problem/3003)
 
