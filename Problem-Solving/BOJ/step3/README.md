@@ -7,6 +7,7 @@
 - [BOJ_15552(빠른 A+B)](https://www.acmicpc.net/problem/15552)
 - [BOJ_2438(별 찍기 - 1)](https://www.acmicpc.net/problem/2438)
 - [BOJ_2439(별 찍기 - 2)](https://www.acmicpc.net/problem/2439)
+- [BOJ_25304(영수증)](https://www.acmicpc.net/problem/25304)
 - [BOJ_2741(N 찍기)](https://www.acmicpc.net/problem/2741)
 - [BOJ_2742(기찍 N)](https://www.acmicpc.net/problem/2742)
 - [BOJ_8393(합)](https://www.acmicpc.net/problem/8393)
