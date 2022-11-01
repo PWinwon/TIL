@@ -46,3 +46,18 @@ SELECT ANIMAL_ID, NAME FROM ANIMAL_INS WHERE INTAKE_CONDITION != "Aged" ORDER BY
 SELECT ANIMAL_ID, NAME FROM ANIMAL_INS ORDER BY ANIMAL_ID;
 ```
 
+
+
+### 6. 과일로 만든 아이스크림 고르기
+
+[문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=mysql)
+
+```sql
+SELECT a.FLAVOR 
+FROM FIRST_HALF a 
+LEFT JOIN ICECREAM_INFO b
+ON a.FLAVOR=b.FLAVOR
+WHERE a.TOTAL_ORDER > 3000 AND b.INGREDIENT_TYPE = 'fruit_based'
+ORDER BY a.TOTAL_ORDER DESC;
+```
+
