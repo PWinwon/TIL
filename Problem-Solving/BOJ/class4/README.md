@@ -17,6 +17,7 @@
 - [BOJ_1967(트리의 지름)](https://www.acmicpc.net/problem/1967)
 - [BOJ_2096(내려가기)](https://www.acmicpc.net/problem/2096)
 - [BOJ_2206(벽 부수고 이동하기)](https://www.acmicpc.net/problem/2206)
+- [BOJ_2263(트리의 순회)](https://www.acmicpc.net/problem/2263)
 - [BOJ_2407(조합)](https://www.acmicpc.net/problem/2407)
 - [BOJ_2559(수열)](https://www.acmicpc.net/problem/2559)
 - [BOJ_5639(이진 검색 트리)](https://www.acmicpc.net/problem/5639)
