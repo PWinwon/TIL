@@ -9,6 +9,7 @@
 - [BOJ_13549(숨바꼭질 3)](https://www.acmicpc.net/problem/13549)
 - [BOJ_15654(N과 M (5))](https://www.acmicpc.net/problem/15654)
 - [BOJ_15657(N과 M (8))](https://www.acmicpc.net/problem/15657)
+- [BOJ_15666(N과 M(12))](https://www.acmicpc.net/problem/15666)
 - [BOJ_1629(곱셈)](https://www.acmicpc.net/problem/1629)
 - [BOJ_16953(A -> B)](https://www.acmicpc.net/problem/16953)
 - [BOJ_17070(파이프 옮기기)](https://www.acmicpc.net/problem/17070)
