@@ -11,6 +11,7 @@
 - [BOJ_11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)
 - [BOJ_11728(배열 합치기)](https://www.acmicpc.net/problem/11728)
 - [BOJ_12101(1, 2, 3 더하기2)](https://www.acmicpc.net/problem/12101)
+- [BOJ_12852(1로 만들기2)](https://www.acmicpc.net/problem/12852)
 - [BOJ_1325(효율적인 해킹)](https://www.acmicpc.net/problem/1325)
 - [BOJ_1463(1로 만들기)](https://www.acmicpc.net/problem/1463)
 - [BOJ_14490(백대열)](https://www.acmicpc.net/problem/14490)
