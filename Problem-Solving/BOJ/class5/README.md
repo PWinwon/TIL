@@ -1,4 +1,5 @@
 # 문제링크
 
 - [BOJ_1005(ACM Craft)](https://www.acmicpc.net/problem/1005)
+- [BOJ_13460(구슬 탈출2)](https://www.acmicpc.net/problem/13460)
 - [BOJ_17404(RGB거리 2)](https://www.acmicpc.net/problem/17404)
