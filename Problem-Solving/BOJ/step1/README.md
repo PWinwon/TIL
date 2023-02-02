@@ -6,6 +6,7 @@
 - [BOJ_10171(고양이)](https://www.acmicpc.net/problem/10171)
 - [BOJ_10172(개)](https://www.acmicpc.net/problem/10172)
 - [BOJ_10430(나머지)](https://www.acmicpc.net/problem/10430)
+- [BOJ_10807(개수 세기)](https://www.acmicpc.net/problem/10807)
 - [BOJ_10869(사칙연산)](https://www.acmicpc.net/problem/10869)
 - [BOJ_10926(??!)](https://www.acmicpc.net/problem/10926)
 - [BOJ_10998(AxB)](https://www.acmicpc.net/problem/10998)
