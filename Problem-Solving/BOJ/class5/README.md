@@ -5,6 +5,7 @@
 - [BOJ_13460(구슬 탈출2)](https://www.acmicpc.net/problem/13460)
 - [BOJ_1647(도시 분할 계획)](https://www.acmicpc.net/problem/1647)
 - [BOJ_17404(RGB거리 2)](https://www.acmicpc.net/problem/17404)
+- [BOJ_17143(낚시왕)](https://www.acmicpc.net/problem/17143)
 - [BOJ_1806(부분합)](https://www.acmicpc.net/problem/1806)
 - [BOJ_20040(사이클 게임)](https://www.acmicpc.net/problem/20040)
 - [BOJ_2239(스도쿠)](https://www.acmicpc.net/problem/2239)
