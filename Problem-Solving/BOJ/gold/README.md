@@ -21,3 +21,4 @@
 - [BOJ_2981(검문)](https://www.acmicpc.net/problem/2981)
 - [BOJ_4179(불!)](https://www.acmicpc.net/problem/4179)
 - [BOJ_4991(로봇 청소기)](https://www.acmicpc.net/problem/4991)
+- [BOJ_9935(문자열 폭발)](https://www.acmicpc.net/problem/9935)
