@@ -1,6 +1,7 @@
 # 문제링크
 
 - [BOJ_1005(ACM Craft)](https://www.acmicpc.net/problem/1005)
+- [BOJ_10775(공항)](https://www.acmicpc.net/problem/10775)
 - [BOJ_1197(최소 스패닝 트리)](https://www.acmicpc.net/problem/1197)
 - [BOJ_13460(구슬 탈출2)](https://www.acmicpc.net/problem/13460)
 - [BOJ_1647(도시 분할 계획)](https://www.acmicpc.net/problem/1647)
