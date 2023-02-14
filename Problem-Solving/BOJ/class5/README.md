@@ -12,5 +12,6 @@
 - [BOJ_2098(외판원 순회)](https://www.acmicpc.net/problem/2098)
 - [BOJ_2166(다각형의 면적)](https://www.acmicpc.net/problem/2166)
 - [BOJ_2239(스도쿠)](https://www.acmicpc.net/problem/2239)
+- [BOJ_2467(용액)](https://www.acmicpc.net/problem/2467)
 - [BOJ_2887(행성 터널)](https://www.acmicpc.net/problem/2887)
 - [BOJ_9328(열쇠)](https://www.acmicpc.net/problem/9328)
