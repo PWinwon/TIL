@@ -8,6 +8,7 @@
 - [BOJ_11779(최소비용 구하기2)](https://www.acmicpc.net/problem/11779)
 - [BOJ_12851(숨바꼭질 2)](https://www.acmicpc.net/problem/12851)
 - [BOJ_13549(숨바꼭질 3)](https://www.acmicpc.net/problem/13549)
+- [BOJ_14938(서강그라운드)](https://www.acmicpc.net/problem/14938)
 - [BOJ_1504(특정한 최단 경로)](https://www.acmicpc.net/problem/1504)
 - [BOJ_15654(N과 M (5))](https://www.acmicpc.net/problem/15654)
 - [BOJ_15657(N과 M (8))](https://www.acmicpc.net/problem/15657)
