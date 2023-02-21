@@ -6,6 +6,7 @@
 - [BOJ_11660(구간 합 구하기 5)](https://www.acmicpc.net/problem/11660)
 - [BOJ_1167(트리의 지름)](https://www.acmicpc.net/problem/1167)
 - [BOJ_11779(최소비용 구하기2)](https://www.acmicpc.net/problem/11779)
+- [BOJ_1238(파티)](https://www.acmicpc.net/problem/1238)
 - [BOJ_12851(숨바꼭질 2)](https://www.acmicpc.net/problem/12851)
 - [BOJ_13549(숨바꼭질 3)](https://www.acmicpc.net/problem/13549)
 - [BOJ_14938(서강그라운드)](https://www.acmicpc.net/problem/14938)
