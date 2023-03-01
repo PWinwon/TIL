@@ -4,6 +4,7 @@
 - [BOJ_10775(공항)](https://www.acmicpc.net/problem/10775)
 - [BOJ_1197(최소 스패닝 트리)](https://www.acmicpc.net/problem/1197)
 - [BOJ_13460(구슬 탈출2)](https://www.acmicpc.net/problem/13460)
+- [BOJ_1644(소수의 연속합)](https://www.acmicpc.net/problem/1644)
 - [BOJ_1647(도시 분할 계획)](https://www.acmicpc.net/problem/1647)
 - [BOJ_17404(RGB거리 2)](https://www.acmicpc.net/problem/17404)
 - [BOJ_17143(낚시왕)](https://www.acmicpc.net/problem/17143)
