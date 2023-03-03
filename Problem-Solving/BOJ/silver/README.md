@@ -3,6 +3,7 @@
 - [BOJ_1026(보물)](https://www.acmicpc.net/problem/1026)
 - [BOJ_10815(숫자 카드)](https://www.acmicpc.net/problem/10815)
 - [BOJ_10819(차이를 최대로)](https://www.acmicpc.net/problem/10819)
+- [BOJ_1094(막대기)](https://www.acmicpc.net/problem/1094)
 - [BOJ_10971(외판원 순회2)](https://www.acmicpc.net/problem/10971)
 - [BOJ_10974(모든 순열)](https://www.acmicpc.net/problem/10974)
 - [BOJ_11060(점프 점프)](https://www.acmicpc.net/problem/11060)
