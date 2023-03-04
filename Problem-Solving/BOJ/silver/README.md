@@ -39,6 +39,7 @@
 - [BOJ_2529(부등호)](https://www.acmicpc.net/problem/2529)
 - [BOJ_2581(소수)](https://www.acmicpc.net/problem/2581)
 - [BOJ_2644(촌수계산)](https://www.acmicpc.net/problem/2644)
+- [BOJ_2961(도영이가 만든 맛있는 음식)](https://www.acmicpc.net/problem/2961)
 - [BOJ_4375(1)](https://www.acmicpc.net/problem/4375)
 - [BOJ_4963(섬의 개수)](https://www.acmicpc.net/problem/4963)
 - [BOJ_6603(로또)](https://www.acmicpc.net/problem/6603)
