@@ -2,6 +2,7 @@
 
 - [BOJ_1009(분산처리)](https://www.acmicpc.net/problem/1009)
 - [BOJ_10872(팩토리얼)](https://www.acmicpc.net/problem/10872)
+- [BOJ_12833(XORXORXOR)](https://www.acmicpc.net/problem/12833)
 - [BOJ_14499(주사위 굴리기)](https://www.acmicpc.net/problem/14499)
 - [BOJ_14501(퇴사)](https://www.acmicpc.net/problem/14501)
 - [BOJ_14888(연산자 끼워넣기)](https://www.acmicpc.net/problem/14888)
