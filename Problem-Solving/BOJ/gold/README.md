@@ -20,6 +20,7 @@
 - [BOJ_1759(암호 만들기)](https://www.acmicpc.net/problem/1759)
 - [BOJ_22868(산책 (small))](https://www.acmicpc.net/problem/22868)
 - [BOJ_2468(안전 영역)](https://www.acmicpc.net/problem/2468)
+- [BOJ_2470(두 용액)](https://www.acmicpc.net/problem/2470)
 - [BOJ_2981(검문)](https://www.acmicpc.net/problem/2981)
 - [BOJ_4179(불!)](https://www.acmicpc.net/problem/4179)
 - [BOJ_4991(로봇 청소기)](https://www.acmicpc.net/problem/4991)
