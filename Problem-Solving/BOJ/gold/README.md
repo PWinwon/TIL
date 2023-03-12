@@ -1,5 +1,6 @@
 # 문제 링크
 
+- [BOJ_10282(해킹)](https://www.acmicpc.net/problem/10282)
 - [BOJ_10830(행렬 제곱)](https://www.acmicpc.net/problem/10830)
 - [BOJ_1113(수영장 만들기)](https://www.acmicpc.net/problem/1113)
 - [BOJ_11657(타임머신)](https://www.acmicpc.net/problem/11657)
