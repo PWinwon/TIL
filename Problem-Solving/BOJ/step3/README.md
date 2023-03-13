@@ -1,5 +1,6 @@
 # 문제 링크
 
+- [BOJ_10813(공 바꾸기)](https://www.acmicpc.net/problem/10813)
 - [BOJ_10871(X보다 작은 수)](https://www.acmicpc.net/problem/10871)
 - [BOJ_10950(A+B-3)](https://www.acmicpc.net/problem/10950)
 - [BOJ_11021(A+B-7)](https://www.acmicpc.net/problem/11021)
