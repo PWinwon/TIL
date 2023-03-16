@@ -22,6 +22,7 @@
 - [BOJ_22868(산책 (small))](https://www.acmicpc.net/problem/22868)
 - [BOJ_2468(안전 영역)](https://www.acmicpc.net/problem/2468)
 - [BOJ_2470(두 용액)](https://www.acmicpc.net/problem/2470)
+- [BOJ_2636(치즈)](https://www.acmicpc.net/problem/2636)
 - [BOJ_2665(미로만들기)](https://www.acmicpc.net/problem/2665)
 - [BOJ_2981(검문)](https://www.acmicpc.net/problem/2981)
 - [BOJ_4179(불!)](https://www.acmicpc.net/problem/4179)
