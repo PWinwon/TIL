@@ -4,6 +4,7 @@
 - [BOJ_1546(평균)](https://www.acmicpc.net/problem/1546)
 - [BOJ_2562(최댓값)](https://www.acmicpc.net/problem/2562)
 - [BOJ_2577(숫자의 개수)](https://www.acmicpc.net/problem/2577)
+- [BOJ_2743(단어 길이 재기)](https://www.acmicpc.net/problem/2743)
 - [BOJ_3052(나머지)](https://www.acmicpc.net/problem/3052)
 - [BOJ_4344(평균은 넘겠지)](https://www.acmicpc.net/problem/4344)
 - [BOJ_8958(OX퀴즈)](https://www.acmicpc.net/problem/8958)
