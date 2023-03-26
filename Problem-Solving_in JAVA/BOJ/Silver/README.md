@@ -11,3 +11,4 @@
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
 - [BOJ_2164(카드2)](https://www.acmicpc.net/problem/2164)
+- [BOJ_2751(수 정렬하기 2)](https://www.acmicpc.net/problem/2751)
