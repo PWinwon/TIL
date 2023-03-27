@@ -6,6 +6,7 @@
 - [BOJ_11659(구간 합 구하기 4)](https://www.acmicpc.net/problem/11659)
 - [BOJ_11660(구간 합 구하기 5)](https://www.acmicpc.net/problem/11660)
 - [BOJ_11724(연결 요소의 개수)](https://www.acmicpc.net/problem/11724)
+- [BOJ_1260(DFS와 BFS)](https://www.acmicpc.net/problem/1260)
 - [BOJ_12891(DNA 비밀번호)](https://www.acmicpc.net/problem/12891)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
