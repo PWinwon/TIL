@@ -9,6 +9,7 @@
 - [BOJ_1260(DFS와 BFS)](https://www.acmicpc.net/problem/1260)
 - [BOJ_12891(DNA 비밀번호)](https://www.acmicpc.net/problem/12891)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
+- [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
