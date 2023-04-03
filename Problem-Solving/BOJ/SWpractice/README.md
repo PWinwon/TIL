@@ -12,6 +12,7 @@
 - [BOJ_16946(벽 부수고 이동하기 4)](https://www.acmicpc.net/problem/16946)
 - [BOJ_17780(새로운 게임)](https://www.acmicpc.net/problem/17780)
 - [BOJ_1800(인터넷 설치)](https://www.acmicpc.net/problem/1800)
+- [BOJ_20055(컨베이어 벨트 위의 로봇)](https://www.acmicpc.net/problem/20055)
 - [BOJ_20061(모노미노도미노 2)](https://www.acmicpc.net/problem/20061)
 - [BOJ_20058(마법사 상어와 파이어스톰)](https://www.acmicpc.net/problem/20058)
 - [BOJ_2042(구간 합 구하기)](https://www.acmicpc.net/problem/2042)
