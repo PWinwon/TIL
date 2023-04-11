@@ -17,4 +17,5 @@
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
 - [BOJ_2164(카드2)](https://www.acmicpc.net/problem/2164)
 - [BOJ_2178(미로 탐색)](https://www.acmicpc.net/problem/2178)
+- [BOJ_2343(기타 레슨)](https://www.acmicpc.net/problem/2343)
 - [BOJ_2751(수 정렬하기 2)](https://www.acmicpc.net/problem/2751)
