@@ -8,4 +8,5 @@
 - [BOJ_1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 - [BOJ_1715(카드 정렬하기)](https://www.acmicpc.net/problem/1715)
 - [BOJ_17298(오큰수)](https://www.acmicpc.net/problem/17298)
+- [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
 - [BOJ_2023(신기한 소수)](https://www.acmicpc.net/problem/2023)
