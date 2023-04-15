@@ -14,6 +14,7 @@
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
 - [BOJ_1920(수 찾기)](https://www.acmicpc.net/problem/1920)
+- [BOJ_1931(회의실 배정)](https://www.acmicpc.net/problem/1931)
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
 - [BOJ_2164(카드2)](https://www.acmicpc.net/problem/2164)
