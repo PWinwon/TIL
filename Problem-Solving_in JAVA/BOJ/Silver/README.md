@@ -13,6 +13,7 @@
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
 - [BOJ_1541(잃어버린 괄호)](https://www.acmicpc.net/problem/1541)
+- [BOJ_1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
 - [BOJ_1920(수 찾기)](https://www.acmicpc.net/problem/1920)
 - [BOJ_1929(소수 구하기)](https://www.acmicpc.net/problem/1929)
