@@ -6,6 +6,7 @@
 - [BOJ_1300(K번째 수)](https://www.acmicpc.net/problem/1300)
 - [BOJ_13023(ABCDE)](https://www.acmicpc.net/problem/13023)
 - [BOJ_1377(버블 소트)](https://www.acmicpc.net/problem/1377)
+- [BOJ_1456(거의 소수)](https://www.acmicpc.net/problem/1456)
 - [BOJ_1715(카드 정렬하기)](https://www.acmicpc.net/problem/1715)
 - [BOJ_17298(오큰수)](https://www.acmicpc.net/problem/17298)
 - [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
