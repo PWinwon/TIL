@@ -14,3 +14,4 @@
 - [BOJ_17298(오큰수)](https://www.acmicpc.net/problem/17298)
 - [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
 - [BOJ_2023(신기한 소수)](https://www.acmicpc.net/problem/2023)
+- [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
