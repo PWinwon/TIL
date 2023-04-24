@@ -1,6 +1,7 @@
 # 문제링크
 
 - [BOJ_1016(제곱 ㄴㄴ 수)](https://www.acmicpc.net/problem/1016)
+- [BOJ_1043(거짓말)](https://www.acmicpc.net/problem/1043)
 - [BOJ_10986(나머지 합)](https://www.acmicpc.net/problem/10986)
 - [BOJ_1167(트리의 지름)](https://www.acmicpc.net/problem/1167)
 - [BOJ_11689(GCD(n, k)=1)](https://www.acmicpc.net/problem/11689)
@@ -14,5 +15,6 @@
 - [BOJ_1717(집합의 표현)](https://www.acmicpc.net/problem/1717)
 - [BOJ_17298(오큰수)](https://www.acmicpc.net/problem/17298)
 - [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
+- [BOJ_1976(여행 가자)](https://www.acmicpc.net/problem/1976)
 - [BOJ_2023(신기한 소수)](https://www.acmicpc.net/problem/2023)
 - [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
