@@ -10,6 +10,7 @@
 - [BOJ_1260(DFS와 BFS)](https://www.acmicpc.net/problem/1260)
 - [BOJ_1269(대칭 차집합)](https://www.acmicpc.net/problem/1269)
 - [BOJ_12891(DNA 비밀번호)](https://www.acmicpc.net/problem/12891)
+- [BOJ_1316(그룹 단어 체커)](https://www.acmicpc.net/problem/1316)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
 - [BOJ_1541(잃어버린 괄호)](https://www.acmicpc.net/problem/1541)
