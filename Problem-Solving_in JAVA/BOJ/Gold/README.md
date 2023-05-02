@@ -10,6 +10,7 @@
 - [BOJ_13023(ABCDE)](https://www.acmicpc.net/problem/13023)
 - [BOJ_1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 - [BOJ_1456(거의 소수)](https://www.acmicpc.net/problem/1456)
+- [BOJ_1516(게임 개발)](https://www.acmicpc.net/problem/1516)
 - [BOJ_1707(이분 그래프)](https://www.acmicpc.net/problem/1707)
 - [BOJ_1715(카드 정렬하기)](https://www.acmicpc.net/problem/1715)
 - [BOJ_1717(집합의 표현)](https://www.acmicpc.net/problem/1717)
