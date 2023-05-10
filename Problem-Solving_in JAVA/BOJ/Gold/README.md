@@ -7,6 +7,7 @@
 - [BOJ_11657(타임머신)](https://www.acmicpc.net/problem/11657)
 - [BOJ_1167(트리의 지름)](https://www.acmicpc.net/problem/1167)
 - [BOJ_11689(GCD(n, k)=1)](https://www.acmicpc.net/problem/11689)
+- [BOJ_1197(최소 스패닝 트리)](https://www.acmicpc.net/problem/1197)
 - [BOJ_1253(좋다)](https://www.acmicpc.net/problem/1253)
 - [BOJ_1300(K번째 수)](https://www.acmicpc.net/problem/1300)
 - [BOJ_13023(ABCDE)](https://www.acmicpc.net/problem/13023)
