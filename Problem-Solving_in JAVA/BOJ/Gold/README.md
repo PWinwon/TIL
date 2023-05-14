@@ -25,4 +25,5 @@
 - [BOJ_2023(신기한 소수)](https://www.acmicpc.net/problem/2023)
 - [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
 - [BOJ_2252(줄 세우기)](https://www.acmicpc.net/problem/2252)
+- [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
 - [BOJ_5972(택배 배송)](https://www.acmicpc.net/problem/5972)
