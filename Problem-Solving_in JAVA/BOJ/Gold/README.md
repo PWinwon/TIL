@@ -2,6 +2,7 @@
 
 - [BOJ_1016(제곱 ㄴㄴ 수)](https://www.acmicpc.net/problem/1016)
 - [BOJ_1043(거짓말)](https://www.acmicpc.net/problem/1043)
+- [BOJ_1068(트리)](https://www.acmicpc.net/problem/1068)
 - [BOJ_10986(나머지 합)](https://www.acmicpc.net/problem/10986)
 - [BOJ_11404(플로이드)](https://www.acmicpc.net/problem/11404)
 - [BOJ_11657(타임머신)](https://www.acmicpc.net/problem/11657)
