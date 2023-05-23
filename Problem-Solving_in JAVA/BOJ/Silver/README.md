@@ -24,6 +24,7 @@
 - [BOJ_1929(소수 구하기)](https://www.acmicpc.net/problem/1929)
 - [BOJ_1931(회의실 배정)](https://www.acmicpc.net/problem/1931)
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
+- [BOJ_1991(트리 순회)](https://www.acmicpc.net/problem/1991)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
 - [BOJ_2164(카드2)](https://www.acmicpc.net/problem/2164)
 - [BOJ_2178(미로 탐색)](https://www.acmicpc.net/problem/2178)
