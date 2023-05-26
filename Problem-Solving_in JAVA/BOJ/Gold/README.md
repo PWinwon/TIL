@@ -32,5 +32,6 @@
 - [BOJ_2042(구간 합 구하기)](https://www.acmicpc.net/problem/2042)
 - [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
 - [BOJ_2252(줄 세우기)](https://www.acmicpc.net/problem/2252)
+- [BOJ_2357(최솟값과 최댓값)](https://www.acmicpc.net/problem/2357)
 - [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
 - [BOJ_5972(택배 배송)](https://www.acmicpc.net/problem/5972)
