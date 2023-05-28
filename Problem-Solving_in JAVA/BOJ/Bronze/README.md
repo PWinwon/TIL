@@ -7,5 +7,6 @@
 - [BOJ_2566(최댓값)](https://www.acmicpc.net/problem/2566)
 - [BOJ_2738(행렬 덧셈)](https://www.acmicpc.net/problem/2738)
 - [BOJ_2743(단어 길이 재기)](https://www.acmicpc.net/problem/2743)
+- [BOJ_27433(팩토리얼 2)](https://www.acmicpc.net/problem/27433)
 - [BOJ_2750(수 정렬하기)](https://www.acmicpc.net/problem/2750)
 - [BOJ_9086(문자열)](https://www.acmicpc.net/problem/9086)
