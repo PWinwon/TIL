@@ -6,6 +6,7 @@
 - [BOJ_10868(최솟값)](https://www.acmicpc.net/problem/10868)
 - [BOJ_10986(나머지 합)](https://www.acmicpc.net/problem/10986)
 - [BOJ_11404(플로이드)](https://www.acmicpc.net/problem/11404)
+- [BOJ_11505(구간 곱 구하기)](https://www.acmicpc.net/problem/11505)
 - [BOJ_11657(타임머신)](https://www.acmicpc.net/problem/11657)
 - [BOJ_1167(트리의 지름)](https://www.acmicpc.net/problem/1167)
 - [BOJ_11689(GCD(n, k)=1)](https://www.acmicpc.net/problem/11689)
