@@ -1,7 +1,9 @@
 # 문제링크
 
+- [BOJ_1010(다리 놓기)](https://www.acmicpc.net/problem/1010)
 - [BOJ_11004(K번째 수)](https://www.acmicpc.net/problem/11004)
 - [BOJ_11047(동전 0)](https://www.acmicpc.net/problem/11047)
+- [BOJ_11051(이항 계수 2)](https://www.acmicpc.net/problem/11051)
 - [BOJ_11286(절댓값 힙)](https://www.acmicpc.net/problem/11286)
 - [BOJ_11399(ATM)](https://www.acmicpc.net/problem/11399)
 - [BOJ_11403(경로 찾기)](https://www.acmicpc.net/problem/11403)
