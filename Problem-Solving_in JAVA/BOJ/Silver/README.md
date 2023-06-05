@@ -15,6 +15,7 @@
 - [BOJ_1269(대칭 차집합)](https://www.acmicpc.net/problem/1269)
 - [BOJ_12891(DNA 비밀번호)](https://www.acmicpc.net/problem/12891)
 - [BOJ_1316(그룹 단어 체커)](https://www.acmicpc.net/problem/1316)
+- [BOJ_13251(조약돌 꺼내기)](https://www.acmicpc.net/problem/13251)
 - [BOJ_1389(케빈 베이컨의 6단계 법칙)](https://www.acmicpc.net/problem/1389)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
