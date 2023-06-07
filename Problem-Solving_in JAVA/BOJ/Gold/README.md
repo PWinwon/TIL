@@ -29,6 +29,7 @@
 - [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
 - [BOJ_17472(다리 만들기 2)](https://www.acmicpc.net/problem/17472)
 - [BOJ_1753(최단경로)](https://www.acmicpc.net/problem/1753)
+- [BOJ_18430(무기 공학)](https://www.acmicpc.net/problem/18430)
 - [BOJ_1916(최소비용 구하기)](https://www.acmicpc.net/problem/1916)
 - [BOJ_1922(네트워크 연결)](https://www.acmicpc.net/problem/1922)
 - [BOJ_1976(여행 가자)](https://www.acmicpc.net/problem/1976)
