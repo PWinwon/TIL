@@ -24,6 +24,7 @@
 - [BOJ_1707(이분 그래프)](https://www.acmicpc.net/problem/1707)
 - [BOJ_1715(카드 정렬하기)](https://www.acmicpc.net/problem/1715)
 - [BOJ_1717(집합의 표현)](https://www.acmicpc.net/problem/1717)
+- [BOJ_1722(순열의 순서)](https://www.acmicpc.net/problem/1722)
 - [BOJ_17298(오큰수)](https://www.acmicpc.net/problem/17298)
 - [BOJ_1744(수 묶기)](https://www.acmicpc.net/problem/1744)
 - [BOJ_17472(다리 만들기 2)](https://www.acmicpc.net/problem/17472)
