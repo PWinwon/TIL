@@ -35,6 +35,7 @@
 - [BOJ_1976(여행 가자)](https://www.acmicpc.net/problem/1976)
 - [BOJ_2023(신기한 소수)](https://www.acmicpc.net/problem/2023)
 - [BOJ_2042(구간 합 구하기)](https://www.acmicpc.net/problem/2042)
+- [BOJ_2240(자두나무)](https://www.acmicpc.net/problem/2240)
 - [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
 - [BOJ_2252(줄 세우기)](https://www.acmicpc.net/problem/2252)
 - [BOJ_2357(최솟값과 최댓값)](https://www.acmicpc.net/problem/2357)
