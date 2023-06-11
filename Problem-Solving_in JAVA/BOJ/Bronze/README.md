@@ -12,6 +12,7 @@
 - [BOJ_2743(단어 길이 재기)](https://www.acmicpc.net/problem/2743)
 - [BOJ_27433(팩토리얼 2)](https://www.acmicpc.net/problem/27433)
 - [BOJ_2750(수 정렬하기)](https://www.acmicpc.net/problem/2750)
+- [BOJ_2754(학점계산)](https://www.acmicpc.net/problem/2754)
 - [BOJ_2775(부녀회장이 될테야)](https://www.acmicpc.net/problem/2775)
 - [BOJ_7287(등록)](https://www.acmicpc.net/problem/7287)
 - [BOJ_9086(문자열)](https://www.acmicpc.net/problem/9086)
