@@ -19,6 +19,7 @@
 - [BOJ_1389(케빈 베이컨의 6단계 법칙)](https://www.acmicpc.net/problem/1389)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
+- [BOJ_14501(퇴사)](https://www.acmicpc.net/problem/14501)
 - [BOJ_1463(1로 만들기)](https://www.acmicpc.net/problem/1463)
 - [BOJ_1541(잃어버린 괄호)](https://www.acmicpc.net/problem/1541)
 - [BOJ_1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
