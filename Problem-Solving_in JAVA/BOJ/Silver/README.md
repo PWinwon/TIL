@@ -1,6 +1,7 @@
 # 문제링크
 
 - [BOJ_1010(다리 놓기)](https://www.acmicpc.net/problem/1010)
+- [BOJ_10844(쉬운 계단 수)](https://www.acmicpc.net/problem/10844)
 - [BOJ_11004(K번째 수)](https://www.acmicpc.net/problem/11004)
 - [BOJ_11047(동전 0)](https://www.acmicpc.net/problem/11047)
 - [BOJ_11051(이항 계수 2)](https://www.acmicpc.net/problem/11051)
