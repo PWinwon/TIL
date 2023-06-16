@@ -43,4 +43,5 @@
 - [BOJ_2293(동전 1)](https://www.acmicpc.net/problem/2293)
 - [BOJ_2357(최솟값과 최댓값)](https://www.acmicpc.net/problem/2357)
 - [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
+- [BOJ_3055(탈출)](https://www.acmicpc.net/problem/3055)
 - [BOJ_5972(택배 배송)](https://www.acmicpc.net/problem/5972)
