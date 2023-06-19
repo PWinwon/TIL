@@ -5,6 +5,7 @@
 - [BOJ_10988(팰린드롬인지 확인하기)](https://www.acmicpc.net/problem/10988)
 - [BOJ_11718(그대로 출력하기)](https://www.acmicpc.net/problem/11718)
 - [BOJ_1546(평균)](https://www.acmicpc.net/problem/1546)
+- [BOJ_15964(이상한 기호)](https://www.acmicpc.net/problem/15964)
 - [BOJ_19352(수학은 비대면강의입니다)](https://www.acmicpc.net/problem/19532)
 - [BOJ_2420(사파리월드)](https://www.acmicpc.net/problem/2420)
 - [BOJ_2566(최댓값)](https://www.acmicpc.net/problem/2566)
