@@ -47,3 +47,4 @@
 - [BOJ_2751(수 정렬하기 2)](https://www.acmicpc.net/problem/2751)
 - [BOJ_3273(두 수의 합)](https://www.acmicpc.net/problem/3273)
 - [BOJ_7785(회사에 있는 사람)](https://www.acmicpc.net/problem/7785)
+- [BOJ_9655(돌 게임)](https://www.acmicpc.net/problem/9655)
