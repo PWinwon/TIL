@@ -17,6 +17,7 @@
 - [BOJ_12919(A와 B 2)](https://www.acmicpc.net/problem/12919)
 - [BOJ_1300(K번째 수)](https://www.acmicpc.net/problem/1300)
 - [BOJ_13023(ABCDE)](https://www.acmicpc.net/problem/13023)
+- [BOJ_13398(연속합 2)](https://www.acmicpc.net/problem/13398)
 - [BOJ_1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 - [BOJ_1414(불우이웃돕기)](https://www.acmicpc.net/problem/1414)
 - [BOJ_1456(거의 소수)](https://www.acmicpc.net/problem/1456)
