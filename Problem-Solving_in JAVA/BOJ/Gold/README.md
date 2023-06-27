@@ -32,6 +32,7 @@
 - [BOJ_17472(다리 만들기 2)](https://www.acmicpc.net/problem/17472)
 - [BOJ_1753(최단경로)](https://www.acmicpc.net/problem/1753)
 - [BOJ_18430(무기 공학)](https://www.acmicpc.net/problem/18430)
+- [BOJ_1915(가장 큰 정사각형)](https://www.acmicpc.net/problem/1915)
 - [BOJ_1916(최소비용 구하기)](https://www.acmicpc.net/problem/1916)
 - [BOJ_1922(네트워크 연결)](https://www.acmicpc.net/problem/1922)
 - [BOJ_1947(선물 전달)](https://www.acmicpc.net/problem/1947)
@@ -46,3 +47,4 @@
 - [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
 - [BOJ_3055(탈출)](https://www.acmicpc.net/problem/3055)
 - [BOJ_5972(택배 배송)](https://www.acmicpc.net/problem/5972)
+- [BOJ_9252(LCS 2)](https://www.acmicpc.net/problem/9252)
