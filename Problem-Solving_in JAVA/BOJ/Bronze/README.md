@@ -1,9 +1,13 @@
 # 문제링크
 
-- [BOJ_11050(이항 계수 1)](https://www.acmicpc.net/problem/11050)
+- [BOJ_1032(명령 프롬프트)](https://www.acmicpc.net/problem/1032)
 - [BOJ_10699(오늘 날짜)](https://www.acmicpc.net/problem/10699)
+- [BOJ_10798(세로읽기)](https://www.acmicpc.net/problem/10798)
+- [BOJ_10808(알파벳 개수)](https://www.acmicpc.net/problem/10808)
 - [BOJ_10953(A+B - 6)](https://www.acmicpc.net/problem/10953)
+- [BOJ_1100(하얀 칸)](https://www.acmicpc.net/problem/1100)
 - [BOJ_10988(팰린드롬인지 확인하기)](https://www.acmicpc.net/problem/10988)
+- [BOJ_11050(이항 계수 1)](https://www.acmicpc.net/problem/11050)
 - [BOJ_11718(그대로 출력하기)](https://www.acmicpc.net/problem/11718)
 - [BOJ_11719(그대로 출력하기 2)](https://www.acmicpc.net/problem/11719)
 - [BOJ_11721(열 개씩 끊어 출력하기)](https://www.acmicpc.net/problem/11721)
