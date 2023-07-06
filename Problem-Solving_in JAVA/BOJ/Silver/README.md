@@ -34,6 +34,7 @@
 - [BOJ_14501(퇴사)](https://www.acmicpc.net/problem/14501)
 - [BOJ_1463(1로 만들기)](https://www.acmicpc.net/problem/1463)
 - [BOJ_1541(잃어버린 괄호)](https://www.acmicpc.net/problem/1541)
+- [BOJ_17413(단어 뒤집기 2)](https://www.acmicpc.net/problem/17413)
 - [BOJ_1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
