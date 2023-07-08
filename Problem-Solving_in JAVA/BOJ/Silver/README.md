@@ -38,6 +38,7 @@
 - [BOJ_1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
+- [BOJ_18870(좌표 압축)](https://www.acmicpc.net/problem/18870)
 - [BOJ_1904(01타일)](https://www.acmicpc.net/problem/1904)
 - [BOJ_1920(수 찾기)](https://www.acmicpc.net/problem/1920)
 - [BOJ_1929(소수 구하기)](https://www.acmicpc.net/problem/1929)
