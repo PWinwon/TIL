@@ -31,6 +31,7 @@
 - [BOJ_2754(학점계산)](https://www.acmicpc.net/problem/2754)
 - [BOJ_2775(부녀회장이 될테야)](https://www.acmicpc.net/problem/2775)
 - [BOJ_2902(KMP는 왜 KMP일까?)](https://www.acmicpc.net/problem/2902)
+- [BOJ_2935(소음)](https://www.acmicpc.net/problem/2935)
 - [BOJ_7287(등록)](https://www.acmicpc.net/problem/7287)
 - [BOJ_7576(그릇)](https://www.acmicpc.net/problem/7567)
 - [BOJ_9086(문자열)](https://www.acmicpc.net/problem/9086)
