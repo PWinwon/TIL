@@ -14,6 +14,7 @@
 - [BOJ_1197(최소 스패닝 트리)](https://www.acmicpc.net/problem/1197)
 - [BOJ_1253(좋다)](https://www.acmicpc.net/problem/1253)
 - [BOJ_1256(사전)](https://www.acmicpc.net/problem/1256)
+- [BOJ_1275(커피숍2)](https://www.acmicpc.net/problem/1275)
 - [BOJ_12919(A와 B 2)](https://www.acmicpc.net/problem/12919)
 - [BOJ_1300(K번째 수)](https://www.acmicpc.net/problem/1300)
 - [BOJ_13023(ABCDE)](https://www.acmicpc.net/problem/13023)
