@@ -1,6 +1,7 @@
 # 문제링크
 
 - [BOJ_1010(다리 놓기)](https://www.acmicpc.net/problem/1010)
+- [BOJ_1021(회전하는 큐)](https://www.acmicpc.net/problem/1021)
 - [BOJ_10431(줄세우기)](https://www.acmicpc.net/problem/10431)
 - [BOJ_10610(30)](https://www.acmicpc.net/problem/10610)
 - [BOJ_10844(쉬운 계단 수)](https://www.acmicpc.net/problem/10844)
