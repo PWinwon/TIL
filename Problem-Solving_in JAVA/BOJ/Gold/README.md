@@ -45,6 +45,7 @@
 - [BOJ_2251(물통)](https://www.acmicpc.net/problem/2251)
 - [BOJ_2252(줄 세우기)](https://www.acmicpc.net/problem/2252)
 - [BOJ_2293(동전 1)](https://www.acmicpc.net/problem/2293)
+- [BOJ_2294(동전 2)](https://www.acmicpc.net/problem/2294)
 - [BOJ_2357(최솟값과 최댓값)](https://www.acmicpc.net/problem/2357)
 - [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
 - [BOJ_3055(탈출)](https://www.acmicpc.net/problem/3055)
