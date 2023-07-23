@@ -10,6 +10,7 @@
 - [BOJ_1100(하얀 칸)](https://www.acmicpc.net/problem/1100)
 - [BOJ_11005(진법 변환2)](https://www.acmicpc.net/problem/11005)
 - [BOJ_11050(이항 계수 1)](https://www.acmicpc.net/problem/11050)
+- [BOJ_11365(!밀비 급일)](https://www.acmicpc.net/problem/11365)
 - [BOJ_1159(농구 경기)](https://www.acmicpc.net/problem/1159)
 - [BOJ_11655(ROT13)](https://www.acmicpc.net/problem/11655)
 - [BOJ_11718(그대로 출력하기)](https://www.acmicpc.net/problem/11718)
