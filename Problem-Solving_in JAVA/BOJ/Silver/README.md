@@ -55,6 +55,7 @@
 - [BOJ_2198(이친수)](https://www.acmicpc.net/problem/2193)
 - [BOJ_2343(기타 레슨)](https://www.acmicpc.net/problem/2343)
 - [BOJ_25206(너의 평점은)](https://www.acmicpc.net/problem/25206)
+- [BOJ_25757(임스와 함께하는 미니게임)](https://www.acmicpc.net/problem/25757)
 - [BOJ_2751(수 정렬하기 2)](https://www.acmicpc.net/problem/2751)
 - [BOJ_3273(두 수의 합)](https://www.acmicpc.net/problem/3273)
 - [BOJ_4659(비밀번호 발음하기)](https://www.acmicpc.net/problem/4659)
