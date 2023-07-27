@@ -23,6 +23,7 @@
 - [BOJ_11724(연결 요소의 개수)](https://www.acmicpc.net/problem/11724)
 - [BOJ_11725(트리의 부모 찾기)](https://www.acmicpc.net/problem/11725)
 - [BOJ_11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)
+- [BOJ_1205(등수 구하기)](https://www.acmicpc.net/problem/1205)
 - [BOJ_1260(DFS와 BFS)](https://www.acmicpc.net/problem/1260)
 - [BOJ_1269(대칭 차집합)](https://www.acmicpc.net/problem/1269)
 - [BOJ_12891(DNA 비밀번호)](https://www.acmicpc.net/problem/12891)
