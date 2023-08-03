@@ -31,6 +31,7 @@
 - [BOJ_1302(베스트셀러)](https://www.acmicpc.net/problem/1302)
 - [BOJ_1316(그룹 단어 체커)](https://www.acmicpc.net/problem/1316)
 - [BOJ_13251(조약돌 꺼내기)](https://www.acmicpc.net/problem/13251)
+- [BOJ_13305(주유소)](https://www.acmicpc.net/problem/13305)
 - [BOJ_1389(케빈 베이컨의 6단계 법칙)](https://www.acmicpc.net/problem/1389)
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_1439(뒤집기)](https://www.acmicpc.net/problem/1439)
