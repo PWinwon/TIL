@@ -43,6 +43,7 @@
 - [BOJ_17266(어두운 굴다리)](https://www.acmicpc.net/problem/17266)
 - [BOJ_17413(단어 뒤집기 2)](https://www.acmicpc.net/problem/17413)
 - [BOJ_1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
+- [BOJ_17484(진우의 달 여행(Small))](https://www.acmicpc.net/problem/17484)
 - [BOJ_18352(특정 거리의 도시 찾기)](https://www.acmicpc.net/problem/18352)
 - [BOJ_1874(스택 수열)](https://www.acmicpc.net/problem/1874)
 - [BOJ_18870(좌표 압축)](https://www.acmicpc.net/problem/18870)
