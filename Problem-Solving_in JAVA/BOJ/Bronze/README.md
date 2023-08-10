@@ -42,6 +42,7 @@
 - [BOJ_2864(5와 6의 차이)](https://www.acmicpc.net/problem/2864)
 - [BOJ_2902(KMP는 왜 KMP일까?)](https://www.acmicpc.net/problem/2902)
 - [BOJ_2935(소음)](https://www.acmicpc.net/problem/2935)
+- [BOJ_5073(삼각형과 세 변)](https://www.acmicpc.net/problem/5073)
 - [BOJ_5086(배수와 약수)](https://www.acmicpc.net/problem/5086)
 - [BOJ_7287(등록)](https://www.acmicpc.net/problem/7287)
 - [BOJ_7576(그릇)](https://www.acmicpc.net/problem/7567)
