@@ -56,6 +56,7 @@
 - [BOJ_1991(트리 순회)](https://www.acmicpc.net/problem/1991)
 - [BOJ_20125(쿠키의 신체 측정)](https://www.acmicpc.net/problem/20125)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
+- [BOJ_20310(타노스)](https://www.acmicpc.net/problem/20310)
 - [BOJ_20920(영단어 암기는 괴로워)](https://www.acmicpc.net/problem/20920)
 - [BOJ_2164(카드2)](https://www.acmicpc.net/problem/2164)
 - [BOJ_2178(미로 탐색)](https://www.acmicpc.net/problem/2178)
