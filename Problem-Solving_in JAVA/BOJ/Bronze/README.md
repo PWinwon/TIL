@@ -26,6 +26,7 @@
 - [BOJ_1934(최소공배수)](https://www.acmicpc.net/problem/1934)
 - [BOJ_19532(수학은 비대면강의입니다)](https://www.acmicpc.net/problem/19532)
 - [BOJ_2083(럭비 클럽)](https://www.acmicpc.net/problem/2083)
+- [BOJ_2338(긴자리 계산)](https://www.acmicpc.net/problem/2338)
 - [BOJ_2420(사파리월드)](https://www.acmicpc.net/problem/2420)
 - [BOJ_24262(알고리즘 수업 - 알고리즘의 수행 시간 1)](https://www.acmicpc.net/problem/24262)
 - [BOJ_25305(커트라인)](https://www.acmicpc.net/problem/25305)
