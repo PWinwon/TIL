@@ -17,6 +17,7 @@
 - [BOJ_11719(그대로 출력하기 2)](https://www.acmicpc.net/problem/11719)
 - [BOJ_11721(열 개씩 끊어 출력하기)](https://www.acmicpc.net/problem/11721)
 - [BOJ_1212(8진수 2진수)](https://www.acmicpc.net/problem/1212)
+- [BOJ_1233(주사위)](https://www.acmicpc.net/problem/1233)
 - [BOJ_1247(부호)](https://www.acmicpc.net/problem/1247)
 - [BOJ_1264(모음의 개수)](https://www.acmicpc.net/problem/1264)
 - [BOJ_1271(엄청난 부자2)](https://www.acmicpc.net/problem/1271)
