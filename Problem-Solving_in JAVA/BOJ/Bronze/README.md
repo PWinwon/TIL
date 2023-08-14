@@ -30,6 +30,7 @@
 - [BOJ_2338(긴자리 계산)](https://www.acmicpc.net/problem/2338)
 - [BOJ_2420(사파리월드)](https://www.acmicpc.net/problem/2420)
 - [BOJ_24262(알고리즘 수업 - 알고리즘의 수행 시간 1)](https://www.acmicpc.net/problem/24262)
+- [BOJ_2440(별 찍기 - 3)](https://www.acmicpc.net/problem/2440)
 - [BOJ_25305(커트라인)](https://www.acmicpc.net/problem/25305)
 - [BOJ_2566(최댓값)](https://www.acmicpc.net/problem/2566)
 - [BOJ_2738(행렬 덧셈)](https://www.acmicpc.net/problem/2738)
