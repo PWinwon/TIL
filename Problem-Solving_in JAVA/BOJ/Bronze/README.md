@@ -20,6 +20,7 @@
 - [BOJ_1233(주사위)](https://www.acmicpc.net/problem/1233)
 - [BOJ_1247(부호)](https://www.acmicpc.net/problem/1247)
 - [BOJ_1264(모음의 개수)](https://www.acmicpc.net/problem/1264)
+- [BOJ_1267(핸드폰 요금)](https://www.acmicpc.net/problem/1267)
 - [BOJ_1271(엄청난 부자2)](https://www.acmicpc.net/problem/1271)
 - [BOJ_1357(뒤집힌 덧셈)](https://www.acmicpc.net/problem/1357)
 - [BOJ_1546(평균)](https://www.acmicpc.net/problem/1546)
