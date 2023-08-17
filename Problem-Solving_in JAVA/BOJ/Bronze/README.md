@@ -49,6 +49,7 @@
 - [BOJ_4101(크냐?)](https://www.acmicpc.net/problem/4101)
 - [BOJ_5073(삼각형과 세 변)](https://www.acmicpc.net/problem/5073)
 - [BOJ_5086(배수와 약수)](https://www.acmicpc.net/problem/5086)
+- [BOJ_5522(카드 게임)](https://www.acmicpc.net/problem/5522)
 - [BOJ_7287(등록)](https://www.acmicpc.net/problem/7287)
 - [BOJ_7576(그릇)](https://www.acmicpc.net/problem/7567)
 - [BOJ_9086(문자열)](https://www.acmicpc.net/problem/9086)
