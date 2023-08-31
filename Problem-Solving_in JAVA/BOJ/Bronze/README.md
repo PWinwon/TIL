@@ -46,6 +46,7 @@
 - [BOJ_2750(수 정렬하기)](https://www.acmicpc.net/problem/2750)
 - [BOJ_2754(학점계산)](https://www.acmicpc.net/problem/2754)
 - [BOJ_2775(부녀회장이 될테야)](https://www.acmicpc.net/problem/2775)
+- [BOJ_2845(파티가 끝나고 난 뒤)](https://www.acmicpc.net/problem/2845)
 - [BOJ_2864(5와 6의 차이)](https://www.acmicpc.net/problem/2864)
 - [BOJ_2902(KMP는 왜 KMP일까?)](https://www.acmicpc.net/problem/2902)
 - [BOJ_2935(소음)](https://www.acmicpc.net/problem/2935)
