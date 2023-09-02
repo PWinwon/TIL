@@ -52,6 +52,7 @@
 - [BOJ_2935(소음)](https://www.acmicpc.net/problem/2935)
 - [BOJ_3046(R2)](https://www.acmicpc.net/problem/3046)
 - [BOJ_4101(크냐?)](https://www.acmicpc.net/problem/4101)
+- [BOJ_4299(AFC 윔블던)](https://www.acmicpc.net/problem/4299)
 - [BOJ_4470(줄번호)](https://www.acmicpc.net/problem/4470)
 - [BOJ_5073(삼각형과 세 변)](https://www.acmicpc.net/problem/5073)
 - [BOJ_5086(배수와 약수)](https://www.acmicpc.net/problem/5086)
