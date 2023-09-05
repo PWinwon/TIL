@@ -1,5 +1,6 @@
 # 문제링크
 
+- [BOJ_10101(삼각형 외우기)](https://www.acmicpc.net/problem/10101)
 - [BOJ_10156(과자)](https://www.acmicpc.net/problem/10156)
 - [BOJ_1032(명령 프롬프트)](https://www.acmicpc.net/problem/1032)
 - [BOJ_10699(오늘 날짜)](https://www.acmicpc.net/problem/10699)
