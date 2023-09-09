@@ -18,6 +18,7 @@
 - [BOJ_11718(그대로 출력하기)](https://www.acmicpc.net/problem/11718)
 - [BOJ_11719(그대로 출력하기 2)](https://www.acmicpc.net/problem/11719)
 - [BOJ_11721(열 개씩 끊어 출력하기)](https://www.acmicpc.net/problem/11721)
+- [BOJ_11942(고려대는 사랑입니다)](https://www.acmicpc.net/problem/11942)
 - [BOJ_1212(8진수 2진수)](https://www.acmicpc.net/problem/1212)
 - [BOJ_1233(주사위)](https://www.acmicpc.net/problem/1233)
 - [BOJ_1247(부호)](https://www.acmicpc.net/problem/1247)
