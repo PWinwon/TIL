@@ -62,6 +62,7 @@
 - [BOJ_5522(카드 게임)](https://www.acmicpc.net/problem/5522)
 - [BOJ_5524(입실 관리)](https://www.acmicpc.net/problem/5524)
 - [BOJ_5532(방학 숙제)](https://www.acmicpc.net/problem/5532)
+- [BOJ_5554(심부름 가는 길)](https://www.acmicpc.net/problem/5554)
 - [BOJ_5596(시험 점수)](https://www.acmicpc.net/problem/5596)
 - [BOJ_7287(등록)](https://www.acmicpc.net/problem/7287)
 - [BOJ_7576(그릇)](https://www.acmicpc.net/problem/7567)
