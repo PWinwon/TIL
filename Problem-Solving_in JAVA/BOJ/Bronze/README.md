@@ -1,5 +1,6 @@
 # 문제링크
 
+- [BOJ_10039(평균 점수)](https://www.acmicpc.net/problem/10039)
 - [BOJ_10101(삼각형 외우기)](https://www.acmicpc.net/problem/10101)
 - [BOJ_10156(과자)](https://www.acmicpc.net/problem/10156)
 - [BOJ_1032(명령 프롬프트)](https://www.acmicpc.net/problem/1032)
