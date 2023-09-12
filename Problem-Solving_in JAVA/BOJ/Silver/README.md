@@ -62,6 +62,7 @@
 - [BOJ_2178(미로 탐색)](https://www.acmicpc.net/problem/2178)
 - [BOJ_21921(블로그)](https://www.acmicpc.net/problem/21921)
 - [BOJ_2193(이친수)](https://www.acmicpc.net/problem/2193)
+- [BOJ_22233(가희와 키워드)](https://www.acmicpc.net/problem/22233)
 - [BOJ_2343(기타 레슨)](https://www.acmicpc.net/problem/2343)
 - [BOJ_25206(너의 평점은)](https://www.acmicpc.net/problem/25206)
 - [BOJ_25757(임스와 함께하는 미니게임)](https://www.acmicpc.net/problem/25757)
