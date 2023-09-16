@@ -6,7 +6,7 @@
 
 - [BOJ (502 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/BOJ)
 - [joungol (10 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/jongol)
-- [programmers (29 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/programmers)
+- [programmers (30 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/programmers)
 - [swea (242 solve)](https://github.com/PWinwon/TIL/tree/main/Problem-Solving/swea)
 
 
