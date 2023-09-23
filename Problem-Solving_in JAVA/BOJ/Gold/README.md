@@ -26,6 +26,7 @@
 - [BOJ_15486(퇴사 2)](https://www.acmicpc.net/problem/15486)
 - [BOJ_16637(괄호 추가하기)](https://www.acmicpc.net/problem/16637)
 - [BOJ_1707(이분 그래프)](https://www.acmicpc.net/problem/1707)
+- [BOJ_17143(낚시왕)](https://www.acmicpc.net/problem/17143)
 - [BOJ_1715(카드 정렬하기)](https://www.acmicpc.net/problem/1715)
 - [BOJ_1717(집합의 표현)](https://www.acmicpc.net/problem/1717)
 - [BOJ_1722(순열의 순서)](https://www.acmicpc.net/problem/1722)
