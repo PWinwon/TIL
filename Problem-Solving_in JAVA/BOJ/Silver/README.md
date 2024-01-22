@@ -53,6 +53,7 @@
 - [BOJ_1929(소수 구하기)](https://www.acmicpc.net/problem/1929)
 - [BOJ_1931(회의실 배정)](https://www.acmicpc.net/problem/1931)
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
+- [BOJ_19637(IF문 좀 대신 써줘)](https://www.acmicpc.net/problem/19637)
 - [BOJ_1991(트리 순회)](https://www.acmicpc.net/problem/1991)
 - [BOJ_20125(쿠키의 신체 측정)](https://www.acmicpc.net/problem/20125)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
