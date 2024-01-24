@@ -16,6 +16,7 @@
 - [BOJ_11399(ATM)](https://www.acmicpc.net/problem/11399)
 - [BOJ_11403(경로 찾기)](https://www.acmicpc.net/problem/11403)
 - [BOJ_11478(서로 다른 부분 문자열의 개수)](https://www.acmicpc.net/problem/11478)
+- [BOJ_11501(주식)](https://www.acmicpc.net/problem/11501)
 - [BOJ_11652(카드)](https://www.acmicpc.net/problem/11652)
 - [BOJ_11656(접미사 배열)](https://www.acmicpc.net/problem/11656)
 - [BOJ_11659(구간 합 구하기 4)](https://www.acmicpc.net/problem/11659)
