@@ -24,6 +24,7 @@
 - [BOJ_1456(거의 소수)](https://www.acmicpc.net/problem/1456)
 - [BOJ_1516(게임 개발)](https://www.acmicpc.net/problem/1516)
 - [BOJ_15486(퇴사 2)](https://www.acmicpc.net/problem/15486)
+- [BOJ_15989(1, 2, 3 더하기 4)](https://www.acmicpc.net/problem/15989)
 - [BOJ_16637(괄호 추가하기)](https://www.acmicpc.net/problem/16637)
 - [BOJ_1707(이분 그래프)](https://www.acmicpc.net/problem/1707)
 - [BOJ_17143(낚시왕)](https://www.acmicpc.net/problem/17143)
