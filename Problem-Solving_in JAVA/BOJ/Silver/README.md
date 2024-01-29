@@ -56,6 +56,7 @@
 - [BOJ_1940(주몽)](https://www.acmicpc.net/problem/1940)
 - [BOJ_19637(IF문 좀 대신 써줘)](https://www.acmicpc.net/problem/19637)
 - [BOJ_1991(트리 순회)](https://www.acmicpc.net/problem/1991)
+- [BOJ_19941(햄버거 분배)](https://www.acmicpc.net/problem/19941)
 - [BOJ_20006(랭킹전 대기열)](https://www.acmicpc.net/problem/20006)
 - [BOJ_20125(쿠키의 신체 측정)](https://www.acmicpc.net/problem/20125)
 - [BOJ_2018(수들의 합 5)](https://www.acmicpc.net/problem/2018)
