@@ -37,6 +37,7 @@
 - [BOJ_1427(소트인사이드)](https://www.acmicpc.net/problem/1427)
 - [BOJ_1439(뒤집기)](https://www.acmicpc.net/problem/1439)
 - [BOJ_14425(문자열 집합)](https://www.acmicpc.net/problem/14425)
+- [BOJ_1446(지름길)](https://www.acmicpc.net/problem/1446)
 - [BOJ_14501(퇴사)](https://www.acmicpc.net/problem/14501)
 - [BOJ_1463(1로 만들기)](https://www.acmicpc.net/problem/1463)
 - [BOJ_1515(수 이어 쓰기)](https://www.acmicpc.net/problem/1515)
