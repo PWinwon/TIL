@@ -53,4 +53,5 @@
 - [BOJ_2493(탑)](https://www.acmicpc.net/problem/2493)
 - [BOJ_3055(탈출)](https://www.acmicpc.net/problem/3055)
 - [BOJ_5972(택배 배송)](https://www.acmicpc.net/problem/5972)
+- [BOJ_9205(맥주 마시면서 걸어가기)](https://www.acmicpc.net/problem/9205)
 - [BOJ_9252(LCS 2)](https://www.acmicpc.net/problem/9252)
