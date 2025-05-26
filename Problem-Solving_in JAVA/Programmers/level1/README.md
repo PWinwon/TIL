@@ -4,3 +4,4 @@
 - [2. 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
 - [3. 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
 - [4. 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
+- [5. 달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
