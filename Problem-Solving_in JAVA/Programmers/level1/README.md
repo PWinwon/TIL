@@ -7,3 +7,4 @@
 - [5. 달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 - [6. 추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
 - [7. 공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+- [8. 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
