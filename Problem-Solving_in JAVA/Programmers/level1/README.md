@@ -9,3 +9,4 @@
 - [7. 공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 - [8. 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
 - [9. 바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [10. 대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
